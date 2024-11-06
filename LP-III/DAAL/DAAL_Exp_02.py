@@ -7,44 +7,41 @@ RMDSSOE, Warje, Pune
 '''
 Write a program to implement Huffman Encoding using a greedy strategy.
 '''
-arr = [
-    ['a', 2, 100], 
-    ['b', 2, 20], 
-    ['c', 1, 40], 
-    ['d', 3, 35], 
-    ['e', 1, 25]
-    ]
-print("List of Jobs:\n", arr)
-print("\nFollowing is maximum profit sequence of Jobs:")
-# length of array
-n = len(arr)
-t = 3
-# Sort all jobs according to
-# decreasing order of profit
-for i in range(n):
-   for j in range(n - 1 - i):
-     if arr[j][2] < arr[j + 1][2]:
-       arr[j], arr[j + 1] = arr[j + 1], arr[j]
+import heapq
 
-# To keep track of free time slots
-result = [False] * t
+class node:
+    def __init__(self, freq, symbol, left=None, right=None):
+        self.freq = freq
+        self.symbol = symbol
+        self.left = left
+        self.right = right
+        self.huff = ""
+    
+    def __lt__(self, other):
+        return self.freq < other.freq
+    
+def printNodes(node, val=""):
+    newval = val + node.huff
+    if node.left:
+        printNodes(node.left, newval)
+    if node.right:
+        printNodes(node.right, newval)
+    else:
+        print(f"{node.symbol} -> {newval}")
 
-# To store result (Sequence of jobs)
-job = ['-1'] * t
+chars = ["a", "b", "c", "d", "e", "f"]
+freqs = [5, 9, 12, 13, 16, 45]
+nodes = []
 
-# Iterate through all given jobs
-for i in range(len(arr)):
+for i in range(len(chars)):
+    heapq.heappush(nodes, node(freqs[i], chars[i]))
 
-   # Find a free slot for this job
-   # (Note that we start from the
-   # last possible slot)
-   for j in range(min(t - 1, arr[i][1] - 1), -1, -1):
+while len(nodes) > 1:
+    left = heapq.heappop(nodes)
+    right = heapq.heappop(nodes)
+    left.huff = "0"
+    right.huff = "1"
+    newnode = node(left.freq + right.freq, left.symbol + right.symbol, left, right)
+    heapq.heappush(nodes, newnode)
 
-     # Free slot found
-     if result[j] is False:
-       result[j] = True
-       job[j] = arr[i][0]
-       break
-
-# print the sequence
-print(job)
+printNodes(nodes[0])
