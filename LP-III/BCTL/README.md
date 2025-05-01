@@ -1,6 +1,7 @@
 # Blockchain Technology Lab
 
 ## Metamask
+
 - To install Metamask wallet, go to their website [metamask.io](https://metamask.io/)
 - Install Metamask extension & create a new account.
 - Set a Password.
@@ -9,6 +10,7 @@
 - You can also create an account on [Metamask Portfolio](https://portfolio.metamask.io/)
 
 ## Remix Ethereum IDE
+
 - Open [Remix IDE](https://remix.ethereum.org/)
 - Click New File & use the extension `.sol` to save it.
 - After writing your code, hit `Ctrl + S` to Compile your code.

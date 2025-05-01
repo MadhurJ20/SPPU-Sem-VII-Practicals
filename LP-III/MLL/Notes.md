@@ -20,8 +20,8 @@ and logic to solve a problem. The machine follows these instructions to
 perform tasks. In contrast, Machine Learning involves feeding data to an
 algorithm, allowing the machine to learn patterns from the data and make
 decisions on its own. In traditional programming, the focus is on the
-*process* of solving a problem, whereas in ML, the focus is on *learning
-from data*.
+_process_ of solving a problem, whereas in ML, the focus is on _learning
+from data_.
 
 ### **3. Machine Learning vs AI vs Data Science**
 
@@ -30,19 +30,19 @@ Intelligence (AI), and Data Science?
 
 **A:**
 
--   **Artificial Intelligence (AI):** Refers to the broader concept of
-    machines being able to carry out tasks that would typically require
-    human intelligence, such as reasoning, problem-solving,
-    understanding natural language, and decision-making. Machine
-    Learning is a subset of AI.
--   **Machine Learning (ML):** A field within AI that focuses
-    specifically on creating algorithms that allow machines to learn
-    from data and make predictions or decisions based on that data,
-    without being explicitly programmed.
--   **Data Science:** A multidisciplinary field that uses scientific
-    methods, algorithms, and systems to extract insights and knowledge
-    from structured and unstructured data. Data science often involves
-    using ML techniques as part of its toolkit for analyzing data.
+- **Artificial Intelligence (AI):** Refers to the broader concept of
+  machines being able to carry out tasks that would typically require
+  human intelligence, such as reasoning, problem-solving,
+  understanding natural language, and decision-making. Machine
+  Learning is a subset of AI.
+- **Machine Learning (ML):** A field within AI that focuses
+  specifically on creating algorithms that allow machines to learn
+  from data and make predictions or decisions based on that data,
+  without being explicitly programmed.
+- **Data Science:** A multidisciplinary field that uses scientific
+  methods, algorithms, and systems to extract insights and knowledge
+  from structured and unstructured data. Data science often involves
+  using ML techniques as part of its toolkit for analyzing data.
 
 ### **4. Types of Learning in Machine Learning**
 
@@ -101,25 +101,25 @@ Intelligence (AI), and Data Science?
 
 **A:** Some of the common ML techniques include:
 
--   **Linear Regression:** Used for regression tasks where the
-    relationship between input features and the target variable is
-    assumed to be linear.
--   **Logistic Regression:** Used for binary classification tasks,
-    predicting probabilities for two classes.
--   **Decision Trees:** A hierarchical model used for classification and
-    regression by splitting the data at each node based on feature
-    values.
--   **Random Forest:** An ensemble method based on decision trees,
-    combining multiple trees to improve accuracy.
--   **Support Vector Machines (SVM):** A powerful classification method
-    that finds the optimal hyperplane separating classes.
--   **K-Nearest Neighbors (KNN):** A simple instance-based learning
-    algorithm that classifies data based on its neighbors.
--   **Neural Networks and Deep Learning:** Used for tasks like image
-    recognition and NLP, where complex patterns are learned through
-    layers of neurons.
--   **K-Means Clustering:** A popular unsupervised learning algorithm
-    used for clustering tasks.
+- **Linear Regression:** Used for regression tasks where the
+  relationship between input features and the target variable is
+  assumed to be linear.
+- **Logistic Regression:** Used for binary classification tasks,
+  predicting probabilities for two classes.
+- **Decision Trees:** A hierarchical model used for classification and
+  regression by splitting the data at each node based on feature
+  values.
+- **Random Forest:** An ensemble method based on decision trees,
+  combining multiple trees to improve accuracy.
+- **Support Vector Machines (SVM):** A powerful classification method
+  that finds the optimal hyperplane separating classes.
+- **K-Nearest Neighbors (KNN):** A simple instance-based learning
+  algorithm that classifies data based on its neighbors.
+- **Neural Networks and Deep Learning:** Used for tasks like image
+  recognition and NLP, where complex patterns are learned through
+  layers of neurons.
+- **K-Means Clustering:** A popular unsupervised learning algorithm
+  used for clustering tasks.
 
 ### **7. Important Elements of Machine Learning**
 
@@ -145,17 +145,17 @@ Intelligence (AI), and Data Science?
 
 **A:** Some of the common challenges include:
 
--   **Data Quality:** Inaccurate, incomplete, or biased data can lead to
-    poor model performance.
--   **Overfitting and Underfitting:** Balancing between a model that is
-    too complex (overfitting) and too simple (underfitting).
--   **Interpretability:** Some models, especially deep learning models,
-    are often seen as \"black boxes\" and are hard to interpret or
-    explain.
--   **Scalability:** Handling large datasets and high-dimensional spaces
-    can be computationally expensive.
--   **Bias and Fairness:** Ensuring that models do not reinforce or
-    perpetuate biases in the data.
+- **Data Quality:** Inaccurate, incomplete, or biased data can lead to
+  poor model performance.
+- **Overfitting and Underfitting:** Balancing between a model that is
+  too complex (overfitting) and too simple (underfitting).
+- **Interpretability:** Some models, especially deep learning models,
+  are often seen as \"black boxes\" and are hard to interpret or
+  explain.
+- **Scalability:** Handling large datasets and high-dimensional spaces
+  can be computationally expensive.
+- **Bias and Fairness:** Ensuring that models do not reinforce or
+  perpetuate biases in the data.
 
 ### **9. Evaluation of Machine Learning Models**
 
@@ -166,22 +166,22 @@ Intelligence (AI), and Data Science?
 
 1.  **For Classification:**
 
-    -   **Accuracy:** Percentage of correct predictions.
-    -   **Precision, Recall, and F1-Score:** Metrics to handle
-        imbalanced classes.
-    -   **Confusion Matrix:** A table that summarizes the performance of
-        a classifier.
-    -   **ROC Curve and AUC:** Used to assess the trade-off between true
-        positive rate and false positive rate.
+    - **Accuracy:** Percentage of correct predictions.
+    - **Precision, Recall, and F1-Score:** Metrics to handle
+      imbalanced classes.
+    - **Confusion Matrix:** A table that summarizes the performance of
+      a classifier.
+    - **ROC Curve and AUC:** Used to assess the trade-off between true
+      positive rate and false positive rate.
 
 2.  **For Regression:**
 
-    -   **Mean Squared Error (MSE):** The average squared difference
-        between predicted and actual values.
-    -   **Root Mean Squared Error (RMSE):** The square root of MSE,
-        giving an error value in the same units as the target variable.
-    -   **R-squared:** A statistical measure of how well the regression
-        predictions approximate the real data points.
+    - **Mean Squared Error (MSE):** The average squared difference
+      between predicted and actual values.
+    - **Root Mean Squared Error (RMSE):** The square root of MSE,
+      giving an error value in the same units as the target variable.
+    - **R-squared:** A statistical measure of how well the regression
+      predictions approximate the real data points.
 
 ### **10. Applications of Machine Learning**
 
@@ -190,13 +190,13 @@ Intelligence (AI), and Data Science?
 **A:** Machine learning is widely applied across various domains,
 including:
 
--   **Healthcare:** Disease prediction, medical imaging, drug discovery.
--   **Finance:** Fraud detection, credit scoring, algorithmic trading.
--   **Marketing:** Customer segmentation, personalized recommendations,
-    and targeted ads.
--   **Autonomous Systems:** Self-driving cars, drones, and robotics.
--   **Natural Language Processing (NLP):** Sentiment analysis, machine
-    translation, chatbots, and speech recognition.
+- **Healthcare:** Disease prediction, medical imaging, drug discovery.
+- **Finance:** Fraud detection, credit scoring, algorithmic trading.
+- **Marketing:** Customer segmentation, personalized recommendations,
+  and targeted ads.
+- **Autonomous Systems:** Self-driving cars, drones, and robotics.
+- **Natural Language Processing (NLP):** Sentiment analysis, machine
+  translation, chatbots, and speech recognition.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -204,75 +204,75 @@ UNIT 2
 
 ### 1. **Concept of Feature**
 
--   **Feature**: In the context of machine learning, a **feature** is an
-    individual measurable property or characteristic of a phenomenon
-    being observed. For example, in a dataset containing information
-    about houses, features could include the number of bedrooms, square
-    footage, or the year built. Features are the input variables that
-    are fed into a model to make predictions.
+- **Feature**: In the context of machine learning, a **feature** is an
+  individual measurable property or characteristic of a phenomenon
+  being observed. For example, in a dataset containing information
+  about houses, features could include the number of bedrooms, square
+  footage, or the year built. Features are the input variables that
+  are fed into a model to make predictions.
 
 ### 2. **Preprocessing of Data**
 
 Data preprocessing refers to the steps taken to clean and transform raw
 data into a suitable format for machine learning models.
 
--   **Normalization and Scaling**:\
-    Normalization and scaling are techniques used to adjust the range or
-    distribution of data features so that they contribute equally to a
-    machine learning model, especially when features have different
-    units or scales.
+- **Normalization and Scaling**:\
+  Normalization and scaling are techniques used to adjust the range or
+  distribution of data features so that they contribute equally to a
+  machine learning model, especially when features have different
+  units or scales.
 
-    -   **Normalization**: This refers to rescaling the data so that it
-        lies within a specific range, often \[0, 1\]. One common method
-        of normalization is **Min-Max Scaling**, which transforms each
-        feature using the formula:
+  - **Normalization**: This refers to rescaling the data so that it
+    lies within a specific range, often \[0, 1\]. One common method
+    of normalization is **Min-Max Scaling**, which transforms each
+    feature using the formula:
 
-         valueNormalized value=max(X)−min(X)x−min(X)​
+     valueNormalized value=max(X)−min(X)x−min(X)​
 
-        where x is the feature value and min(X) and max(X) are the
-        minimum and maximum values in the dataset.
+    where x is the feature value and min(X) and max(X) are the
+    minimum and maximum values in the dataset.
 
-    -   **Scaling (Standardization)**: Scaling is a technique where the
-        data is centered around the mean (i.e., subtracting the mean)
-        and scaled to have a unit variance (dividing by the standard
-        deviation). The formula for scaling is:
+  - **Scaling (Standardization)**: Scaling is a technique where the
+    data is centered around the mean (i.e., subtracting the mean)
+    and scaled to have a unit variance (dividing by the standard
+    deviation). The formula for scaling is:
 
-         valueScaled value=σx−μ​
+     valueScaled value=σx−μ​
 
-        where μ is the mean of the feature and σ is the standard
-        deviation. This is useful when features have different units or
-        when the model is sensitive to the scale of the input data
-        (e.g., distance-based models like k-NN or SVM).
+    where μ is the mean of the feature and σ is the standard
+    deviation. This is useful when features have different units or
+    when the model is sensitive to the scale of the input data
+    (e.g., distance-based models like k-NN or SVM).
 
--   **Standardization**: Standardization is another form of scaling
-    where the data is transformed to have a mean of 0 and a standard
-    deviation of 1. Standardization is particularly important when the
-    data has different ranges and is being used with algorithms that
-    rely on distance measurements, like k-NN or SVM.
+- **Standardization**: Standardization is another form of scaling
+  where the data is transformed to have a mean of 0 and a standard
+  deviation of 1. Standardization is particularly important when the
+  data has different ranges and is being used with algorithms that
+  rely on distance measurements, like k-NN or SVM.
 
 ### 3. **Managing Missing Values**
 
 Missing values are common in real-world datasets, and handling them
 properly is essential. Some common techniques include:
 
--   **Removing Data**: If a feature or an observation has too many
-    missing values, it may be best to remove it. However, this can lead
-    to data loss, so this is generally a last resort.
+- **Removing Data**: If a feature or an observation has too many
+  missing values, it may be best to remove it. However, this can lead
+  to data loss, so this is generally a last resort.
 
--   **Imputation**: Replacing missing values with reasonable estimates,
-    such as:
+- **Imputation**: Replacing missing values with reasonable estimates,
+  such as:
 
-    -   **Mean/Median Imputation**: Replacing missing values with the
-        mean or median of that feature.
-    -   **Mode Imputation**: For categorical data, missing values can be
-        replaced with the most frequent category.
-    -   **K-Nearest Neighbor (KNN) Imputation**: Using the KNN algorithm
-        to impute missing values based on the values of similar
-        instances.
+  - **Mean/Median Imputation**: Replacing missing values with the
+    mean or median of that feature.
+  - **Mode Imputation**: For categorical data, missing values can be
+    replaced with the most frequent category.
+  - **K-Nearest Neighbor (KNN) Imputation**: Using the KNN algorithm
+    to impute missing values based on the values of similar
+    instances.
 
--   **Forward/Backward Filling**: In time-series data, missing values
-    can be filled using previous (forward fill) or subsequent (backward
-    fill) values.
+- **Forward/Backward Filling**: In time-series data, missing values
+  can be filled using previous (forward fill) or subsequent (backward
+  fill) values.
 
 ### 4. **Introduction to Dimensionality Reduction**
 
@@ -282,12 +282,12 @@ possible. This is particularly useful in reducing computation time and
 overcoming the \"curse of dimensionality\" (i.e., as the number of
 features increases, the data becomes sparse and harder to analyze).
 
--   **Advantages of Dimensionality Reduction**:
+- **Advantages of Dimensionality Reduction**:
 
-    -   Improved computational efficiency.
-    -   Better model performance by eliminating redundant or irrelevant
-        features.
-    -   Reduced risk of overfitting.
+  - Improved computational efficiency.
+  - Better model performance by eliminating redundant or irrelevant
+    features.
+  - Reduced risk of overfitting.
 
 ### 5. **Principal Component Analysis (PCA)**
 
@@ -296,19 +296,19 @@ reduction. It transforms the original features into a new set of
 features, called **principal components**, which are linear combinations
 of the original features.
 
--   **How PCA works**:
+- **How PCA works**:
 
-    -   **Covariance matrix**: First, PCA calculates the covariance
-        matrix of the data to understand the relationships between
-        different features.
-    -   **Eigenvectors and Eigenvalues**: PCA then computes the
-        eigenvectors and eigenvalues of the covariance matrix. The
-        eigenvectors represent the directions (principal components) in
-        which the data varies the most, and the eigenvalues represent
-        the amount of variance along each direction.
-    -   **Projection**: The data is then projected onto the eigenvectors
-        with the highest eigenvalues, creating a new set of features
-        that captures the most variance in the data.
+  - **Covariance matrix**: First, PCA calculates the covariance
+    matrix of the data to understand the relationships between
+    different features.
+  - **Eigenvectors and Eigenvalues**: PCA then computes the
+    eigenvectors and eigenvalues of the covariance matrix. The
+    eigenvectors represent the directions (principal components) in
+    which the data varies the most, and the eigenvalues represent
+    the amount of variance along each direction.
+  - **Projection**: The data is then projected onto the eigenvectors
+    with the highest eigenvalues, creating a new set of features
+    that captures the most variance in the data.
 
 PCA reduces the dimensionality by selecting only the top few
 eigenvectors, typically corresponding to the largest eigenvalues, which
@@ -321,31 +321,31 @@ meaningful features that can be used for machine learning. It's
 particularly useful when dealing with unstructured data like images,
 text, or audio.
 
--   **Kernel PCA**: Kernel PCA is a variant of PCA that uses kernel
-    methods to perform dimensionality reduction in a higher-dimensional
-    feature space. This technique is especially useful when the data is
-    non-linearly separable. By using a kernel (like the Radial Basis
-    Function, or RBF), Kernel PCA can identify patterns that are not
-    visible in the original feature space.
--   **Local Binary Pattern (LBP)**: LBP is a texture descriptor commonly
-    used in computer vision, particularly for facial recognition and
-    image classification. It labels the pixels in an image based on
-    whether their neighbors are greater than or less than the central
-    pixel and encodes this information into a binary number. The result
-    is a compact representation of the texture, which can be used as a
-    feature for further analysis or classification.
+- **Kernel PCA**: Kernel PCA is a variant of PCA that uses kernel
+  methods to perform dimensionality reduction in a higher-dimensional
+  feature space. This technique is especially useful when the data is
+  non-linearly separable. By using a kernel (like the Radial Basis
+  Function, or RBF), Kernel PCA can identify patterns that are not
+  visible in the original feature space.
+- **Local Binary Pattern (LBP)**: LBP is a texture descriptor commonly
+  used in computer vision, particularly for facial recognition and
+  image classification. It labels the pixels in an image based on
+  whether their neighbors are greater than or less than the central
+  pixel and encodes this information into a binary number. The result
+  is a compact representation of the texture, which can be used as a
+  feature for further analysis or classification.
 
 ### Summary of Key Points:
 
--   **Normalization/Scaling**: Ensures that features are on the same
-    scale or within a certain range.
--   **Standardization**: Centers data around zero with unit variance.
--   **Handling Missing Values**: Can be done through imputation or
-    deletion.
--   **Dimensionality Reduction (PCA)**: Reduces the number of features
-    while preserving variance.
--   **Feature Extraction**: Techniques like Kernel PCA and LBP help in
-    creating more meaningful features from raw data.
+- **Normalization/Scaling**: Ensures that features are on the same
+  scale or within a certain range.
+- **Standardization**: Centers data around zero with unit variance.
+- **Handling Missing Values**: Can be done through imputation or
+  deletion.
+- **Dimensionality Reduction (PCA)**: Reduces the number of features
+  while preserving variance.
+- **Feature Extraction**: Techniques like Kernel PCA and LBP help in
+  creating more meaningful features from raw data.
 
 These concepts are critical for building robust machine learning models,
 as preprocessing, dimensionality reduction, and feature extraction can
@@ -387,109 +387,111 @@ feature selection.
 
 #### 1. **Sequential Forward Selection (SFS)**
 
--   **Idea**: SFS is a **greedy** algorithm that starts with no features
-    and sequentially adds the best feature (based on model performance)
-    at each step.
+- **Idea**: SFS is a **greedy** algorithm that starts with no features
+  and sequentially adds the best feature (based on model performance)
+  at each step.
 
--   **Steps**:
+- **Steps**:
 
-    1.  Start with an empty set of features.
-    2.  For each feature in the dataset, evaluate the model\'s
-        performance when that feature is added to the set.
-    3.  Add the feature that results in the best performance (e.g.,
-        highest accuracy, lowest error).
-    4.  Repeat the process until the desired number of features is
-        reached or until performance does not improve significantly with
-        additional features.
+  1.  Start with an empty set of features.
+  2.  For each feature in the dataset, evaluate the model\'s
+      performance when that feature is added to the set.
+  3.  Add the feature that results in the best performance (e.g.,
+      highest accuracy, lowest error).
+  4.  Repeat the process until the desired number of features is
+      reached or until performance does not improve significantly with
+      additional features.
 
--   **Advantages**:
+- **Advantages**:
 
-    1.  Can effectively reduce dimensionality by selecting only the most
-        relevant features.
-    2.  Works well when there is a clear relationship between features
-        and the target.
+  1.  Can effectively reduce dimensionality by selecting only the most
+      relevant features.
+  2.  Works well when there is a clear relationship between features
+      and the target.
 
--   **Disadvantages**:
+- **Disadvantages**:
 
-    1.  Computationally expensive, as it requires evaluating the model
-        for many combinations of features.
-    2.  Can suffer from **local optima**, meaning it might not always
-        find the globally optimal subset of features.
+  1.  Computationally expensive, as it requires evaluating the model
+      for many combinations of features.
+  2.  Can suffer from **local optima**, meaning it might not always
+      find the globally optimal subset of features.
 
--   **Example**:\
-    If you start with 10 features, SFS will evaluate all features one by
-    one and add the best-performing feature. After the first feature is
-    added, it evaluates combinations of the selected feature with the
-    rest, and so on.
+- **Example**:\
+  If you start with 10 features, SFS will evaluate all features one by
+  one and add the best-performing feature. After the first feature is
+  added, it evaluates combinations of the selected feature with the
+  rest, and so on.
 
 #### 2. **Sequential Backward Selection (SBS)**
 
--   **Idea**: SBS is the opposite of SFS. It starts with all the
-    features and sequentially removes the least important feature at
-    each step.
+- **Idea**: SBS is the opposite of SFS. It starts with all the
+  features and sequentially removes the least important feature at
+  each step.
 
--   **Steps**:
+- **Steps**:
 
-    1.  Start with all features in the dataset.
-    2.  For each feature, evaluate the model\'s performance when that
-        feature is removed.
-    3.  Remove the feature that results in the best performance (e.g.,
-        highest accuracy, lowest error).
-    4.  Repeat this process until the desired number of features is
-        reached or removing more features degrades the model's
-        performance significantly.
+  1.  Start with all features in the dataset.
+  2.  For each feature, evaluate the model\'s performance when that
+      feature is removed.
+  3.  Remove the feature that results in the best performance (e.g.,
+      highest accuracy, lowest error).
+  4.  Repeat this process until the desired number of features is
+      reached or removing more features degrades the model's
+      performance significantly.
 
--   **Advantages**:
+- **Advantages**:
 
-    1.  Useful when you have a large number of features and you believe
-        some are irrelevant or redundant.
-    2.  Tends to preserve the most informative features by starting with
-        a full set.
+  1.  Useful when you have a large number of features and you believe
+      some are irrelevant or redundant.
+  2.  Tends to preserve the most informative features by starting with
+      a full set.
 
--   **Disadvantages**:
+- **Disadvantages**:
 
-    1.  Also computationally expensive, since it evaluates different
-        subsets by removing features one by one.
-    2.  Can suffer from **local optima**, meaning it might not always
-        lead to the best subset of features.
+  1.  Also computationally expensive, since it evaluates different
+      subsets by removing features one by one.
+  2.  Can suffer from **local optima**, meaning it might not always
+      lead to the best subset of features.
 
--   **Example**:\
-    If you start with 10 features, SBS will evaluate the impact of
-    removing each feature and remove the one that least impacts
-    performance. After the first removal, it re-evaluates the model with
-    one fewer feature and continues removing features.
+- **Example**:\
+  If you start with 10 features, SBS will evaluate the impact of
+  removing each feature and remove the one that least impacts
+  performance. After the first removal, it re-evaluates the model with
+  one fewer feature and continues removing features.
 
 ### **Comparison Between Sequential Forward Selection (SFS) and Sequential Backward Selection (SBS)**
 
-  ------------------------- -------------------------------------------------------------------- ----------------------------------------------------------------
-  **Starting Point**        Starts with an empty set of features.                                Starts with all available features.
-  **Process**               Adds features one by one, choosing the best-performing feature.      Removes features one by one, discarding the least important.
-  **Iteration**             Adds a feature each time based on model performance.                 Removes a feature each time based on model performance.
-  **Advantages**            Good when you expect a smaller subset of features to perform well.   Good when you believe most features are relevant.
-  **Disadvantages**         Computationally expensive and might get stuck in local optima.       Computationally expensive and might get stuck in local optima.
-  **Best Use Case**         Suitable when the number of features is small to moderate.           Useful when starting with a large set of features.
-  **Risk of Overfitting**   Less risk of overfitting if the model evaluates performance well.    Can still overfit if you stop removing features too early.
-  ------------------------- -------------------------------------------------------------------- ----------------------------------------------------------------
+---
+
+**Starting Point** Starts with an empty set of features. Starts with all available features.
+**Process** Adds features one by one, choosing the best-performing feature. Removes features one by one, discarding the least important.
+**Iteration** Adds a feature each time based on model performance. Removes a feature each time based on model performance.
+**Advantages** Good when you expect a smaller subset of features to perform well. Good when you believe most features are relevant.
+**Disadvantages** Computationally expensive and might get stuck in local optima. Computationally expensive and might get stuck in local optima.
+**Best Use Case** Suitable when the number of features is small to moderate. Useful when starting with a large set of features.
+**Risk of Overfitting** Less risk of overfitting if the model evaluates performance well. Can still overfit if you stop removing features too early.
+
+---
 
 ### **When to Use Each?**
 
--   **Sequential Forward Selection (SFS)**:
+- **Sequential Forward Selection (SFS)**:
 
-    -   Use when you have a small or moderate number of features and you
-        believe that only a few are highly relevant.
-    -   SFS is often preferred in scenarios where you need to build a
-        model quickly and want to limit the number of features
-        considered.
+  - Use when you have a small or moderate number of features and you
+    believe that only a few are highly relevant.
+  - SFS is often preferred in scenarios where you need to build a
+    model quickly and want to limit the number of features
+    considered.
 
--   **Sequential Backward Selection (SBS)**:
+- **Sequential Backward Selection (SBS)**:
 
-    -   Use when you start with a large number of features and want to
-        eliminate the less relevant ones. SBS can help identify which
-        features don\'t contribute much to model performance and can be
-        discarded.
-    -   SBS may be useful when you want to ensure that you\'re not
-        prematurely excluding useful features by starting from a large
-        set of features.
+  - Use when you start with a large number of features and want to
+    eliminate the less relevant ones. SBS can help identify which
+    features don\'t contribute much to model performance and can be
+    discarded.
+  - SBS may be useful when you want to ensure that you\'re not
+    prematurely excluding useful features by starting from a large
+    set of features.
 
 ### **Other Feature Selection Methods**
 
@@ -522,10 +524,10 @@ performance, reducing overfitting, and enhancing interpretability.
 Selection (SBS)** are both greedy, wrapper-based methods for feature
 selection, each with its own strengths and weaknesses.
 
--   **SFS** is better for situations where you\'re gradually building up
-    your features.
--   **SBS** is more useful when you start with a large number of
-    features and want to eliminate unnecessary ones.
+- **SFS** is better for situations where you\'re gradually building up
+  your features.
+- **SBS** is more useful when you start with a large number of
+  features and want to eliminate unnecessary ones.
 
 Understanding when and how to use these methods will help you improve
 your machine learning models by ensuring they use only the most relevant
@@ -546,23 +548,23 @@ Count-based features are derived by counting the occurrences of specific
 values, patterns, or events in the data. These features can be
 particularly useful for categorical variables or text data.
 
--   **Count of unique values**: In a categorical dataset, you might
-    create features that represent the frequency of each unique
-    category. For example, if you\'re working with customer purchase
-    data, the count of how many times each product was purchased could
-    be a feature.
+- **Count of unique values**: In a categorical dataset, you might
+  create features that represent the frequency of each unique
+  category. For example, if you\'re working with customer purchase
+  data, the count of how many times each product was purchased could
+  be a feature.
 
-    Example: For a categorical feature \"color\", you can count how many
-    times each color appears in the dataset.
+  Example: For a categorical feature \"color\", you can count how many
+  times each color appears in the dataset.
 
--   **Count of non-null or non-zero entries**: In a numeric dataset, you
-    could count how many non-null or non-zero values a particular
-    feature has. This could give insight into the completeness or
-    sparsity of the data.
+- **Count of non-null or non-zero entries**: In a numeric dataset, you
+  could count how many non-null or non-zero values a particular
+  feature has. This could give insight into the completeness or
+  sparsity of the data.
 
-    Example: For a dataset containing sales figures, the count of
-    non-zero sales values could indicate the overall activity or
-    participation in the sales.
+  Example: For a dataset containing sales figures, the count of
+  non-zero sales values could indicate the overall activity or
+  participation in the sales.
 
 #### **2. Length-based Features**
 
@@ -570,19 +572,19 @@ Length-based features refer to metrics that describe the length or size
 of certain variables, particularly when dealing with textual or
 time-series data.
 
--   **Text length**: For text data, the length of a string (e.g., number
-    of characters or words) can serve as a useful feature. For instance,
-    in a dataset containing product descriptions, the length of each
-    description might be correlated with product complexity or type.
+- **Text length**: For text data, the length of a string (e.g., number
+  of characters or words) can serve as a useful feature. For instance,
+  in a dataset containing product descriptions, the length of each
+  description might be correlated with product complexity or type.
 
-    Example: For a sentence in a text, the length could be the number of
-    words, characters, or even syllables. In NLP tasks, features like
-    the number of words or characters in a sentence are often used.
+  Example: For a sentence in a text, the length could be the number of
+  words, characters, or even syllables. In NLP tasks, features like
+  the number of words or characters in a sentence are often used.
 
--   **Time length**: In time-series or event-based data, length could
-    refer to the duration or span between two points, such as the length
-    of time a user spends on a website or the duration of a customer\'s
-    purchase history.
+- **Time length**: In time-series or event-based data, length could
+  refer to the duration or span between two points, such as the length
+  of time a user spends on a website or the duration of a customer\'s
+  purchase history.
 
 #### **3. Central Tendency Measures**
 
@@ -590,46 +592,46 @@ Central tendency measures like **mean**, **median**, and **mode** are
 basic statistical features that summarize the central location of the
 data. These are commonly used for numeric data.
 
--   **Mean**: The average of the data points. It gives a sense of the
-    overall \"level\" of the feature.
+- **Mean**: The average of the data points. It gives a sense of the
+  overall \"level\" of the feature.
 
-    Example: In a dataset of customer spending, the mean spending could
-    help identify the average customer.
+  Example: In a dataset of customer spending, the mean spending could
+  help identify the average customer.
 
--   **Median**: The middle value when the data is ordered. The median is
-    robust to outliers and gives a better indication of the \"center\"
-    of data when there are extreme values.
+- **Median**: The middle value when the data is ordered. The median is
+  robust to outliers and gives a better indication of the \"center\"
+  of data when there are extreme values.
 
-    Example: In a dataset of house prices, the median price could be a
-    more reliable measure of central tendency if there are a few
-    extremely high-priced houses.
+  Example: In a dataset of house prices, the median price could be a
+  more reliable measure of central tendency if there are a few
+  extremely high-priced houses.
 
--   **Mode**: The value that appears most frequently. For categorical
-    data, the mode is especially useful in determining the most common
-    category.
+- **Mode**: The value that appears most frequently. For categorical
+  data, the mode is especially useful in determining the most common
+  category.
 
-    Example: In a dataset of favorite colors, the mode would identify
-    the most frequently chosen color.
+  Example: In a dataset of favorite colors, the mode would identify
+  the most frequently chosen color.
 
 #### **4. Dispersion-based Features**
 
 Dispersion-based features describe how spread out the values in the data
 are.
 
--   **Standard Deviation**: Measures the spread or variability of the
-    data. A higher standard deviation indicates that the data points are
-    more spread out, while a lower standard deviation suggests that the
-    values are closer to the mean.
+- **Standard Deviation**: Measures the spread or variability of the
+  data. A higher standard deviation indicates that the data points are
+  more spread out, while a lower standard deviation suggests that the
+  values are closer to the mean.
 
-    Example: For a feature like income, standard deviation can help
-    assess the income inequality within a group.
+  Example: For a feature like income, standard deviation can help
+  assess the income inequality within a group.
 
--   **Variance**: The square of the standard deviation. It gives an idea
-    of the spread, though in the same units as the squared values of the
-    feature.
+- **Variance**: The square of the standard deviation. It gives an idea
+  of the spread, though in the same units as the squared values of the
+  feature.
 
-    Example: For a dataset of ages, the variance could indicate the
-    range of age differences in a community.
+  Example: For a dataset of ages, the variance could indicate the
+  range of age differences in a community.
 
 ### **Multidimensional Scaling (MDS)**
 
@@ -642,35 +644,35 @@ as much as possible in the lower-dimensional space.
 
 #### **How MDS Works**:
 
--   **Input**: The input to MDS is typically a **distance matrix** (or
-    dissimilarity matrix) that quantifies the pairwise distances or
-    dissimilarities between data points. This can be calculated using
-    Euclidean distance or other distance measures.
--   **Goal**: The goal of MDS is to place data points in a
-    lower-dimensional space while maintaining the relative distances
-    between them as much as possible.
+- **Input**: The input to MDS is typically a **distance matrix** (or
+  dissimilarity matrix) that quantifies the pairwise distances or
+  dissimilarities between data points. This can be calculated using
+  Euclidean distance or other distance measures.
+- **Goal**: The goal of MDS is to place data points in a
+  lower-dimensional space while maintaining the relative distances
+  between them as much as possible.
 
 #### **Types of MDS**:
 
--   **Classical MDS (Metric MDS)**: This approach assumes that the
-    dissimilarities between points are metric (i.e., they are meaningful
-    and follow a certain structure). It typically uses an eigenvalue
-    decomposition of the distance matrix to obtain the lower-dimensional
-    representation.
--   **Non-metric MDS**: This version is more flexible and can be used
-    when the distances are ordinal or only rank-based (i.e., we care
-    more about the relative order of distances rather than the actual
-    values).
+- **Classical MDS (Metric MDS)**: This approach assumes that the
+  dissimilarities between points are metric (i.e., they are meaningful
+  and follow a certain structure). It typically uses an eigenvalue
+  decomposition of the distance matrix to obtain the lower-dimensional
+  representation.
+- **Non-metric MDS**: This version is more flexible and can be used
+  when the distances are ordinal or only rank-based (i.e., we care
+  more about the relative order of distances rather than the actual
+  values).
 
 #### **Applications of MDS**:
 
--   **Data Visualization**: MDS is often used to visualize
-    high-dimensional data in 2D or 3D space to make it easier to
-    interpret, especially in areas like marketing, where you want to
-    visualize customer segmentation or product similarities.
--   **Similarity Analysis**: MDS is widely used in psychology,
-    linguistics, and biology to analyze the similarity between different
-    objects (e.g., words, species, or people).
+- **Data Visualization**: MDS is often used to visualize
+  high-dimensional data in 2D or 3D space to make it easier to
+  interpret, especially in areas like marketing, where you want to
+  visualize customer segmentation or product similarities.
+- **Similarity Analysis**: MDS is widely used in psychology,
+  linguistics, and biology to analyze the similarity between different
+  objects (e.g., words, species, or people).
 
 ### **Matrix Factorization Techniques**
 
@@ -686,18 +688,18 @@ Singular Value Decomposition is one of the most commonly used matrix
 factorization techniques. It decomposes a matrix into three smaller
 matrices: A=UΣVT, where:
 
--   **U** contains the left singular vectors,
--   **Σ** is a diagonal matrix with singular values,
--   **V** contains the right singular vectors.
+- **U** contains the left singular vectors,
+- **Σ** is a diagonal matrix with singular values,
+- **V** contains the right singular vectors.
 
 **Applications of SVD**:
 
--   **Recommender Systems**: In collaborative filtering, SVD is used to
-    decompose user-item interaction matrices (e.g., rating matrices) to
-    identify latent factors that explain user preferences.
--   **Dimensionality Reduction**: SVD can also be used for
-    dimensionality reduction, such as in Principal Component Analysis
-    (PCA).
+- **Recommender Systems**: In collaborative filtering, SVD is used to
+  decompose user-item interaction matrices (e.g., rating matrices) to
+  identify latent factors that explain user preferences.
+- **Dimensionality Reduction**: SVD can also be used for
+  dimensionality reduction, such as in Principal Component Analysis
+  (PCA).
 
 #### **2. Non-Negative Matrix Factorization (NMF)**
 
@@ -706,19 +708,19 @@ constrained to be non-negative. This is useful when the data is
 inherently non-negative, like image data, document-term matrices, or
 user-item ratings.
 
--   **Objective**: Given a non-negative matrix V, NMF aims to find two
-    non-negative matrices W and H such that V≈WH.
--   **Interpretability**: The non-negativity constraint makes the
-    results easier to interpret compared to SVD, as the components
-    represent additive combinations of the original data, which is often
-    useful in applications like image compression and topic modeling.
+- **Objective**: Given a non-negative matrix V, NMF aims to find two
+  non-negative matrices W and H such that V≈WH.
+- **Interpretability**: The non-negativity constraint makes the
+  results easier to interpret compared to SVD, as the components
+  represent additive combinations of the original data, which is often
+  useful in applications like image compression and topic modeling.
 
 **Applications of NMF**:
 
--   **Topic Modeling**: NMF is used to extract topics from text data by
-    decomposing a term-document matrix.
--   **Image Processing**: NMF can be used in image compression and
-    feature extraction, where pixel intensities are non-negative.
+- **Topic Modeling**: NMF is used to extract topics from text data by
+  decomposing a term-document matrix.
+- **Image Processing**: NMF can be used in image compression and
+  feature extraction, where pixel intensities are non-negative.
 
 #### **3. Alternating Least Squares (ALS)**
 
@@ -729,25 +731,25 @@ least-squares optimization approach.
 
 **Applications of ALS**:
 
--   **Collaborative Filtering**: ALS is commonly used in recommender
-    systems, particularly for building models from user-item interaction
-    data.
+- **Collaborative Filtering**: ALS is commonly used in recommender
+  systems, particularly for building models from user-item interaction
+  data.
 
 ### **Summary of Techniques**
 
--   **Statistical Feature Engineering** involves using simple
-    statistical properties like **mean**, **median**, **mode**, and
-    **counts** to create new features. Length-based features (e.g., text
-    length), central tendency measures, and dispersion (variance,
-    standard deviation) are commonly used.
--   **Multidimensional Scaling (MDS)** is a technique used to visualize
-    high-dimensional data by preserving the distances or dissimilarities
-    between data points in a lower-dimensional space.
--   **Matrix Factorization** techniques like **SVD**, **NMF**, and
-    **ALS** are used to decompose matrices (such as user-item
-    interaction matrices) into latent factors, and they are widely used
-    in **recommender systems** and other applications like **topic
-    modeling** and **image compression**.
+- **Statistical Feature Engineering** involves using simple
+  statistical properties like **mean**, **median**, **mode**, and
+  **counts** to create new features. Length-based features (e.g., text
+  length), central tendency measures, and dispersion (variance,
+  standard deviation) are commonly used.
+- **Multidimensional Scaling (MDS)** is a technique used to visualize
+  high-dimensional data by preserving the distances or dissimilarities
+  between data points in a lower-dimensional space.
+- **Matrix Factorization** techniques like **SVD**, **NMF**, and
+  **ALS** are used to decompose matrices (such as user-item
+  interaction matrices) into latent factors, and they are widely used
+  in **recommender systems** and other applications like **topic
+  modeling** and **image compression**.
 
 These techniques are essential for transforming raw data into meaningful
 representations that can be effectively used by machine learning models.
@@ -828,9 +830,9 @@ y=β0​+β1​x1​+β2​x2​+⋯+βn​xn​
 
 Where:
 
--   y is the predicted value.
--   x1​,x2​,...,xn​ are the features.
--   β0​,β1​,...,βn​ are the model parameters.
+- y is the predicted value.
+- x1​,x2​,...,xn​ are the features.
+- β0​,β1​,...,βn​ are the model parameters.
 
 ### 7. **What is Lasso Regression?**
 
@@ -863,11 +865,11 @@ any of them to zero.
 
 **Answer:**
 
--   **Lasso Regression** uses L1 regularization, which can shrink some
-    coefficients to zero, making it useful for feature selection.
--   **Ridge Regression** uses L2 regularization, which shrinks the
-    coefficients but does not set them to zero. It is useful when all
-    features are important but you want to control their magnitudes.
+- **Lasso Regression** uses L1 regularization, which can shrink some
+  coefficients to zero, making it useful for feature selection.
+- **Ridge Regression** uses L2 regularization, which shrinks the
+  coefficients but does not set them to zero. It is useful when all
+  features are important but you want to control their magnitudes.
 
 ### 10. **What is the Gradient Descent Algorithm?**
 
@@ -888,9 +890,9 @@ too-small rate can result in slow convergence.
 
 **Answer:**
 
--   **MAE (Mean Absolute Error)** is the average of the absolute
-    differences between the predicted values and actual values. It is
-    calculated as:
+- **MAE (Mean Absolute Error)** is the average of the absolute
+  differences between the predicted values and actual values. It is
+  calculated as:
 
 MAE=n1​i=1∑n​∣yi​−y\^​i​∣
 
@@ -900,82 +902,82 @@ Where yi​ is the actual value and y\^​i​ is the predicted value.
 MAE gives a linear score that doesn\'t penalize large errors as much as
 RMSE.
 
--   **RMSE (Root Mean Squared Error)** is the square root of the average
-    of the squared differences between the predicted and actual values:
+- **RMSE (Root Mean Squared Error)** is the square root of the average
+  of the squared differences between the predicted and actual values:
 
 RMSE=n1​i=1∑n​(yi​−y\^​i​)2
 
 ### 1. **Concept of Feature**
 
--   **Feature**: In the context of machine learning, a **feature** is an
-    individual measurable property or characteristic of a phenomenon
-    being observed. For example, in a dataset containing information
-    about houses, features could include the number of bedrooms, square
-    footage, or the year built. Features are the input variables that
-    are fed into a model to make predictions.
+- **Feature**: In the context of machine learning, a **feature** is an
+  individual measurable property or characteristic of a phenomenon
+  being observed. For example, in a dataset containing information
+  about houses, features could include the number of bedrooms, square
+  footage, or the year built. Features are the input variables that
+  are fed into a model to make predictions.
 
 ### 2. **Preprocessing of Data**
 
 Data preprocessing refers to the steps taken to clean and transform raw
 data into a suitable format for machine learning models.
 
--   **Normalization and Scaling**:\
-    Normalization and scaling are techniques used to adjust the range or
-    distribution of data features so that they contribute equally to a
-    machine learning model, especially when features have different
-    units or scales.
+- **Normalization and Scaling**:\
+  Normalization and scaling are techniques used to adjust the range or
+  distribution of data features so that they contribute equally to a
+  machine learning model, especially when features have different
+  units or scales.
 
-    -   **Normalization**: This refers to rescaling the data so that it
-        lies within a specific range, often \[0, 1\]. One common method
-        of normalization is **Min-Max Scaling**, which transforms each
-        feature using the formula:
+  - **Normalization**: This refers to rescaling the data so that it
+    lies within a specific range, often \[0, 1\]. One common method
+    of normalization is **Min-Max Scaling**, which transforms each
+    feature using the formula:
 
-         valueNormalized value=max(X)−min(X)x−min(X)​
+     valueNormalized value=max(X)−min(X)x−min(X)​
 
-        where x is the feature value and min(X) and max(X) are the
-        minimum and maximum values in the dataset.
+    where x is the feature value and min(X) and max(X) are the
+    minimum and maximum values in the dataset.
 
-    -   **Scaling (Standardization)**: Scaling is a technique where the
-        data is centered around the mean (i.e., subtracting the mean)
-        and scaled to have a unit variance (dividing by the standard
-        deviation). The formula for scaling is:
+  - **Scaling (Standardization)**: Scaling is a technique where the
+    data is centered around the mean (i.e., subtracting the mean)
+    and scaled to have a unit variance (dividing by the standard
+    deviation). The formula for scaling is:
 
-         valueScaled value=σx−μ​
+     valueScaled value=σx−μ​
 
-        where μ is the mean of the feature and σ is the standard
-        deviation. This is useful when features have different units or
-        when the model is sensitive to the scale of the input data
-        (e.g., distance-based models like k-NN or SVM).
+    where μ is the mean of the feature and σ is the standard
+    deviation. This is useful when features have different units or
+    when the model is sensitive to the scale of the input data
+    (e.g., distance-based models like k-NN or SVM).
 
--   **Standardization**: Standardization is another form of scaling
-    where the data is transformed to have a mean of 0 and a standard
-    deviation of 1. Standardization is particularly important when the
-    data has different ranges and is being used with algorithms that
-    rely on distance measurements, like k-NN or SVM.
+- **Standardization**: Standardization is another form of scaling
+  where the data is transformed to have a mean of 0 and a standard
+  deviation of 1. Standardization is particularly important when the
+  data has different ranges and is being used with algorithms that
+  rely on distance measurements, like k-NN or SVM.
 
 ### 3. **Managing Missing Values**
 
 Missing values are common in real-world datasets, and handling them
 properly is essential. Some common techniques include:
 
--   **Removing Data**: If a fea**UNIT 3**ture or an observation has too
-    many missing values, it may be best to remove it. However, this can
-    lead to data loss, so this is generally a last resort.
+- **Removing Data**: If a fea**UNIT 3**ture or an observation has too
+  many missing values, it may be best to remove it. However, this can
+  lead to data loss, so this is generally a last resort.
 
--   **Imputation**: Replacing missing values with reasonable estimates,
-    such as:
+- **Imputation**: Replacing missing values with reasonable estimates,
+  such as:
 
-    -   **Mean/Median Imputation**: Replacing missing values with the
-        mean or median of that feature.
-    -   **Mode Imputation**: For categorical data, missing values can be
-        replaced with the most frequent category.
-    -   **K-Nearest Neighbor (KNN) Imputation**: Using the KNN algorithm
-        to impute missing values based on the values of similar
-        instances.
+  - **Mean/Median Imputation**: Replacing missing values with the
+    mean or median of that feature.
+  - **Mode Imputation**: For categorical data, missing values can be
+    replaced with the most frequent category.
+  - **K-Nearest Neighbor (KNN) Imputation**: Using the KNN algorithm
+    to impute missing values based on the values of similar
+    instances.
 
--   **Forward/Backward Filling**: In time-series data, missing values
-    can be filled using previous (forward fill) or subsequent (backward
-    fill) values.
+- **Forward/Backward Filling**: In time-series data, missing values
+  can be filled using previous (forward fill) or subsequent (backward
+  fill) values.
 
 ### 4. **Introduction to Dimensionality Reduction**
 
@@ -985,12 +987,12 @@ possible. This is particularly useful in reducing computation time and
 overcoming the \"curse of dimensionality\" (i.e., as the number of
 features increases, the data becomes sparse and harder to analyze).
 
--   **Advantages of Dimensionality Reduction**:
+- **Advantages of Dimensionality Reduction**:
 
-    -   Improved computational efficiency.
-    -   Better model performance by eliminating redundant or irrelevant
-        features.
-    -   Reduced risk of overfitting.
+  - Improved computational efficiency.
+  - Better model performance by eliminating redundant or irrelevant
+    features.
+  - Reduced risk of overfitting.
 
 ### 5. **Principal Component Analysis (PCA)**
 
@@ -999,19 +1001,19 @@ reduction. It transforms the original features into a new set of
 features, called **principal components**, which are linear combinations
 of the original features.
 
--   **How PCA works**:
+- **How PCA works**:
 
-    -   **Covariance matrix**: First, PCA calculates the covariance
-        matrix of the data to understand the relationships between
-        different features.
-    -   **Eigenvectors and Eigenvalues**: PCA then computes the
-        eigenvectors and eigenvalues of the covariance matrix. The
-        eigenvectors represent the directions (principal components) in
-        which the data varies the most, and the eigenvalues represent
-        the amount of variance along each direction.
-    -   **Projection**: The data is then projected onto the eigenvectors
-        with the highest eigenvalues, creating a new set of features
-        that captures the most variance in the data.
+  - **Covariance matrix**: First, PCA calculates the covariance
+    matrix of the data to understand the relationships between
+    different features.
+  - **Eigenvectors and Eigenvalues**: PCA then computes the
+    eigenvectors and eigenvalues of the covariance matrix. The
+    eigenvectors represent the directions (principal components) in
+    which the data varies the most, and the eigenvalues represent
+    the amount of variance along each direction.
+  - **Projection**: The data is then projected onto the eigenvectors
+    with the highest eigenvalues, creating a new set of features
+    that captures the most variance in the data.
 
 PCA reduces the dimensionality by selecting only the top few
 eigenvectors, typically corresponding to the largest eigenvalues, which
@@ -1024,31 +1026,31 @@ meaningful features that can be used for machine learning. It's
 particularly useful when dealing with unstructured data like images,
 text, or audio.
 
--   **Kernel PCA**: Kernel PCA is a variant of PCA that uses kernel
-    methods to perform dimensionality reduction in a higher-dimensional
-    feature space. This technique is especially useful when the data is
-    non-linearly separable. By using a kernel (like the Radial Basis
-    Function, or RBF), Kernel PCA can identify patterns that are not
-    visible in the original feature space.
--   **Local Binary Pattern (LBP)**: LBP is a texture descriptor commonly
-    used in computer vision, particularly for facial recognition and
-    image classification. It labels the pixels in an image based on
-    whether their neighbors are greater than or less than the central
-    pixel and encodes this information into a binary number. The result
-    is a compact representation of the texture, which can be used as a
-    feature for further analysis or classification.
+- **Kernel PCA**: Kernel PCA is a variant of PCA that uses kernel
+  methods to perform dimensionality reduction in a higher-dimensional
+  feature space. This technique is especially useful when the data is
+  non-linearly separable. By using a kernel (like the Radial Basis
+  Function, or RBF), Kernel PCA can identify patterns that are not
+  visible in the original feature space.
+- **Local Binary Pattern (LBP)**: LBP is a texture descriptor commonly
+  used in computer vision, particularly for facial recognition and
+  image classification. It labels the pixels in an image based on
+  whether their neighbors are greater than or less than the central
+  pixel and encodes this information into a binary number. The result
+  is a compact representation of the texture, which can be used as a
+  feature for further analysis or classification.
 
 ### Summary of Key Points:
 
--   **Normalization/Scaling**: Ensures that features are on the same
-    scale or within a certain range.
--   **Standardization**: Centers data around zero with unit variance.
--   **Handling Missing Values**: Can be done through imputation or
-    deletion.
--   **Dimensionality Reduction (PCA)**: Reduces the number of features
-    while preserving variance.
--   **Feature Extraction**: Techniques like Kernel PCA and LBP help in
-    creating more meaningful features from raw data.
+- **Normalization/Scaling**: Ensures that features are on the same
+  scale or within a certain range.
+- **Standardization**: Centers data around zero with unit variance.
+- **Handling Missing Values**: Can be done through imputation or
+  deletion.
+- **Dimensionality Reduction (PCA)**: Reduces the number of features
+  while preserving variance.
+- **Feature Extraction**: Techniques like Kernel PCA and LBP help in
+  creating more meaningful features from raw data.
 
 These concepts are critical for building robust machine learning models,
 as preprocessing, dimensionality reduction, and feature extraction can
@@ -1064,109 +1066,111 @@ feature selection.
 
 #### 1. **Sequential Forward Selection (SFS)**
 
--   **Idea**: SFS is a **greedy** algorithm that starts with no features
-    and sequentially adds the best feature (based on model performance)
-    at each step.
+- **Idea**: SFS is a **greedy** algorithm that starts with no features
+  and sequentially adds the best feature (based on model performance)
+  at each step.
 
--   **Steps**:
+- **Steps**:
 
-    1.  Start with an empty set of features.
-    2.  For each feature in the dataset, evaluate the model\'s
-        performance when that feature is added to the set.
-    3.  Add the feature that results in the best performance (e.g.,
-        highest accuracy, lowest error).
-    4.  Repeat the process until the desired number of features is
-        reached or until performance does not improve significantly with
-        additional features.
+  1.  Start with an empty set of features.
+  2.  For each feature in the dataset, evaluate the model\'s
+      performance when that feature is added to the set.
+  3.  Add the feature that results in the best performance (e.g.,
+      highest accuracy, lowest error).
+  4.  Repeat the process until the desired number of features is
+      reached or until performance does not improve significantly with
+      additional features.
 
--   **Advantages**:
+- **Advantages**:
 
-    1.  Can effectively reduce dimensionality by selecting only the most
-        relevant features.
-    2.  Works well when there is a clear relationship between features
-        and the target.
+  1.  Can effectively reduce dimensionality by selecting only the most
+      relevant features.
+  2.  Works well when there is a clear relationship between features
+      and the target.
 
--   **Disadvantages**:
+- **Disadvantages**:
 
-    1.  Computationally expensive, as it requires evaluating the model
-        for many combinations of features.
-    2.  Can suffer from **local optima**, meaning it might not always
-        find the globally optimal subset of features.
+  1.  Computationally expensive, as it requires evaluating the model
+      for many combinations of features.
+  2.  Can suffer from **local optima**, meaning it might not always
+      find the globally optimal subset of features.
 
--   **Example**:\
-    If you start with 10 features, SFS will evaluate all features one by
-    one and add the best-performing feature. After the first feature is
-    added, it evaluates combinations of the selected feature with the
-    rest, and so on.
+- **Example**:\
+  If you start with 10 features, SFS will evaluate all features one by
+  one and add the best-performing feature. After the first feature is
+  added, it evaluates combinations of the selected feature with the
+  rest, and so on.
 
 #### 2. **Sequential Backward Selection (SBS)**
 
--   **Idea**: SBS is the opposite of SFS. It starts with all the
-    features and sequentially removes the least important feature at
-    each step.
+- **Idea**: SBS is the opposite of SFS. It starts with all the
+  features and sequentially removes the least important feature at
+  each step.
 
--   **Steps**:
+- **Steps**:
 
-    1.  Start with all features in the dataset.
-    2.  For each feature, evaluate the model\'s performance when that
-        feature is removed.
-    3.  Remove the feature that results in the best performance (e.g.,
-        highest accuracy, lowest error).
-    4.  Repeat this process until the desired number of features is
-        reached or removing more features degrades the model's
-        performance significantly.
+  1.  Start with all features in the dataset.
+  2.  For each feature, evaluate the model\'s performance when that
+      feature is removed.
+  3.  Remove the feature that results in the best performance (e.g.,
+      highest accuracy, lowest error).
+  4.  Repeat this process until the desired number of features is
+      reached or removing more features degrades the model's
+      performance significantly.
 
--   **Advantages**:
+- **Advantages**:
 
-    1.  Useful when you have a large number of features and you believe
-        some are irrelevant or redundant.
-    2.  Tends to preserve the most informative features by starting with
-        a full set.
+  1.  Useful when you have a large number of features and you believe
+      some are irrelevant or redundant.
+  2.  Tends to preserve the most informative features by starting with
+      a full set.
 
--   **Disadvantages**:
+- **Disadvantages**:
 
-    1.  Also computationally expensive, since it evaluates different
-        subsets by removing features one by one.
-    2.  Can suffer from **local optima**, meaning it might not always
-        lead to the best subset of features.
+  1.  Also computationally expensive, since it evaluates different
+      subsets by removing features one by one.
+  2.  Can suffer from **local optima**, meaning it might not always
+      lead to the best subset of features.
 
--   **Example**:\
-    If you start with 10 features, SBS will evaluate the impact of
-    removing each feature and remove the one that least impacts
-    performance. After the first removal, it re-evaluates the model with
-    one fewer feature and continues removing features.
+- **Example**:\
+  If you start with 10 features, SBS will evaluate the impact of
+  removing each feature and remove the one that least impacts
+  performance. After the first removal, it re-evaluates the model with
+  one fewer feature and continues removing features.
 
 ### **Comparison Between Sequential Forward Selection (SFS) and Sequential Backward Selection (SBS)**
 
-  ------------------------- -------------------------------------------------------------------- ----------------------------------------------------------------
-  **Starting Point**        Starts with an empty set of features.                                Starts with all available features.
-  **Process**               Adds features one by one, choosing the best-performing feature.      Removes features one by one, discarding the least important.
-  **Iteration**             Adds a feature each time based on model performance.                 Removes a feature each time based on model performance.
-  **Advantages**            Good when you expect a smaller subset of features to perform well.   Good when you believe most features are relevant.
-  **Disadvantages**         Computationally expensive and might get stuck in local optima.       Computationally expensive and might get stuck in local optima.
-  **Best Use Case**         Suitable when the number of features is small to moderate.           Useful when starting with a large set of features.
-  **Risk of Overfitting**   Less risk of overfitting if the model evaluates performance well.    Can still overfit if you stop removing features too early.
-  ------------------------- -------------------------------------------------------------------- ----------------------------------------------------------------
+---
+
+**Starting Point** Starts with an empty set of features. Starts with all available features.
+**Process** Adds features one by one, choosing the best-performing feature. Removes features one by one, discarding the least important.
+**Iteration** Adds a feature each time based on model performance. Removes a feature each time based on model performance.
+**Advantages** Good when you expect a smaller subset of features to perform well. Good when you believe most features are relevant.
+**Disadvantages** Computationally expensive and might get stuck in local optima. Computationally expensive and might get stuck in local optima.
+**Best Use Case** Suitable when the number of features is small to moderate. Useful when starting with a large set of features.
+**Risk of Overfitting** Less risk of overfitting if the model evaluates performance well. Can still overfit if you stop removing features too early.
+
+---
 
 ### **When to Use Each?**
 
--   **Sequential Forward Selection (SFS)**:
+- **Sequential Forward Selection (SFS)**:
 
-    -   Use when you have a small or moderate number of features and you
-        believe that only a few are highly relevant.
-    -   SFS is often preferred in scenarios where you need to build a
-        model quickly and want to limit the number of features
-        considered.
+  - Use when you have a small or moderate number of features and you
+    believe that only a few are highly relevant.
+  - SFS is often preferred in scenarios where you need to build a
+    model quickly and want to limit the number of features
+    considered.
 
--   **Sequential Backward Selection (SBS)**:
+- **Sequential Backward Selection (SBS)**:
 
-    -   Use when you start with a large number of features and want to
-        eliminate the less relevant ones. SBS can help identify which
-        features don\'t contribute much to model performance and can be
-        discarded.
-    -   SBS may be useful when you want to ensure that you\'re not
-        prematurely excluding useful features by starting from a large
-        set of features.
+  - Use when you start with a large number of features and want to
+    eliminate the less relevant ones. SBS can help identify which
+    features don\'t contribute much to model performance and can be
+    discarded.
+  - SBS may be useful when you want to ensure that you\'re not
+    prematurely excluding useful features by starting from a large
+    set of features.
 
 ### **Other Feature Selection Methods**
 
@@ -1199,10 +1203,10 @@ performance, reducing overfitting, and enhancing interpretability.
 Selection (SBS)** are both greedy, wrapper-based methods for feature
 selection, each with its own strengths and weaknesses.
 
--   **SFS** is better for situations where you\'re gradually building up
-    your features.
--   **SBS** is more useful when you start with a large number of
-    features and want to eliminate unnecessary ones.
+- **SFS** is better for situations where you\'re gradually building up
+  your features.
+- **SBS** is more useful when you start with a large number of
+  features and want to eliminate unnecessary ones.
 
 Understanding when and how to use these methods will help you improve
 your machine learning models by ensuring they use only the most relevant
@@ -1230,19 +1234,19 @@ preferred to avoid ties in classification tasks.
 **Q: What are the advantages and disadvantages of KNN?**\
 **A:**
 
--   **Advantages:**
+- **Advantages:**
 
-    -   Simple and intuitive.
-    -   No training phase (instance-based learning).
-    -   Works well for smaller datasets and non-linear decision
-        boundaries.
+  - Simple and intuitive.
+  - No training phase (instance-based learning).
+  - Works well for smaller datasets and non-linear decision
+    boundaries.
 
--   **Disadvantages:**
+- **Disadvantages:**
 
-    -   Computationally expensive during prediction (as it requires
-        computing distances for all data points).
-    -   Sensitive to irrelevant features (feature scaling is essential).
-    -   Struggles with high-dimensional data (curse of dimensionality).
+  - Computationally expensive during prediction (as it requires
+    computing distances for all data points).
+  - Sensitive to irrelevant features (feature scaling is essential).
+  - Struggles with high-dimensional data (curse of dimensionality).
 
 ### **2. Support Vector Machine (SVM)**
 
@@ -1262,19 +1266,19 @@ Basis Function (RBF) kernels.
 **Q: What are the advantages and disadvantages of SVM?**\
 **A:**
 
--   **Advantages:**
+- **Advantages:**
 
-    -   Effective in high-dimensional spaces.
-    -   Memory efficient since it uses a subset of training points
-        (support vectors).
-    -   Works well with non-linear decision boundaries using appropriate
-        kernels.
+  - Effective in high-dimensional spaces.
+  - Memory efficient since it uses a subset of training points
+    (support vectors).
+  - Works well with non-linear decision boundaries using appropriate
+    kernels.
 
--   **Disadvantages:**
+- **Disadvantages:**
 
-    -   Sensitive to the choice of kernel and hyperparameters.
-    -   Computationally expensive for large datasets.
-    -   Doesn\'t perform well with noisy data and overlapping classes.
+  - Sensitive to the choice of kernel and hyperparameters.
+  - Computationally expensive for large datasets.
+  - Doesn\'t perform well with noisy data and overlapping classes.
 
 ### **3. Ensemble Learning**
 
@@ -1326,10 +1330,10 @@ considered.
 **Q: What are the key advantages of Random Forest?**\
 **A:**
 
--   Can handle both classification and regression tasks.
--   Robust to overfitting due to the randomness introduced in training.
--   Can handle missing data and large datasets efficiently.
--   Provides feature importance scores.
+- Can handle both classification and regression tasks.
+- Robust to overfitting due to the randomness introduced in training.
+- Can handle missing data and large datasets efficiently.
+- Provides feature importance scores.
 
 #### **AdaBoost**
 
@@ -1342,10 +1346,10 @@ data points and giving them higher priority in subsequent models.
 **Q: What is the key difference between Bagging and Boosting?**\
 **A:**
 
--   **Bagging**: Focuses on reducing variance by training multiple
-    independent models on different subsets of the data.
--   **Boosting**: Focuses on reducing bias by sequentially training
-    models and focusing on errors made by previous models.
+- **Bagging**: Focuses on reducing variance by training multiple
+  independent models on different subsets of the data.
+- **Boosting**: Focuses on reducing bias by sequentially training
+  models and focusing on errors made by previous models.
 
 ### **4. Binary vs. Multiclass Classification**
 
@@ -1380,12 +1384,12 @@ the model being biased towards the majority classes.
 **Q: How can you handle imbalanced multiclass classification?**\
 **A:** Techniques include:
 
--   **Resampling methods**: Oversampling the minority classes or
-    undersampling the majority classes.
--   **Class weighting**: Assigning higher weights to the minority
-    classes in the loss function.
--   **Synthetic data generation**: Using methods like SMOTE to generate
-    synthetic examples for the minority class.
+- **Resampling methods**: Oversampling the minority classes or
+  undersampling the majority classes.
+- **Class weighting**: Assigning higher weights to the minority
+  classes in the loss function.
+- **Synthetic data generation**: Using methods like SMOTE to generate
+  synthetic examples for the minority class.
 
 ### **6. One-vs-One and One-vs-All Classification**
 
@@ -1404,10 +1408,10 @@ confidence from the classifiers is chosen.
 **Q: What are the pros and cons of One-vs-One and One-vs-All?**\
 **A:**
 
--   **OvO**: Can be computationally expensive, but may work better with
-    highly imbalanced classes.
--   **OvA**: More computationally efficient, but may struggle with
-    highly imbalanced classes.
+- **OvO**: Can be computationally expensive, but may work better with
+  highly imbalanced classes.
+- **OvA**: More computationally efficient, but may struggle with
+  highly imbalanced classes.
 
 ### **7. Evaluation Metrics**
 
@@ -1573,15 +1577,15 @@ micro-averaging?
 
 **Answer:**
 
--   **Micro-average** is used when you want to give equal weight to each
-    instance, irrespective of its class. It\'s typically preferred when
-    class imbalance exists because it treats all predictions the same,
-    regardless of the class frequency.
--   **Macro-average** is used when you want to give equal weight to each
-    class, regardless of the number of instances in each class. It's
-    better when you care about the model\'s performance across all
-    classes equally, such as in multi-class classification problems with
-    balanced class distributions.
+- **Micro-average** is used when you want to give equal weight to each
+  instance, irrespective of its class. It\'s typically preferred when
+  class imbalance exists because it treats all predictions the same,
+  regardless of the class frequency.
+- **Macro-average** is used when you want to give equal weight to each
+  class, regardless of the number of instances in each class. It's
+  better when you care about the model\'s performance across all
+  classes equally, such as in multi-class classification problems with
+  balanced class distributions.
 
 ### **10. What is the significance of using F-score over Accuracy in imbalanced classification problems?**
 
@@ -1605,14 +1609,14 @@ models?
 performance of a classification model by showing the counts of actual vs
 predicted values. It displays:
 
--   **True Positives (TP)**: Correctly predicted positive class
-    instances.
--   **True Negatives (TN)**: Correctly predicted negative class
-    instances.
--   **False Positives (FP)**: Negative instances incorrectly predicted
-    as positive.
--   **False Negatives (FN)**: Positive instances incorrectly predicted
-    as negative.
+- **True Positives (TP)**: Correctly predicted positive class
+  instances.
+- **True Negatives (TN)**: Correctly predicted negative class
+  instances.
+- **False Positives (FP)**: Negative instances incorrectly predicted
+  as positive.
+- **False Negatives (FN)**: Positive instances incorrectly predicted
+  as negative.
 
 From the confusion matrix, precision, recall, F1-score, and accuracy can
 be derived, providing a complete picture of the model\'s performance.
@@ -1624,16 +1628,16 @@ evaluation?
 
 **Answer:**
 
--   **Balanced classification problems** have an approximately equal
-    number of instances in each class. In such cases, traditional
-    metrics like accuracy and F1-score can give a good idea of model
-    performance.
--   **Imbalanced classification problems** have one or more classes with
-    significantly fewer instances than others. In these cases,
-    traditional metrics (especially accuracy) can be misleading.
-    Precision, recall, and F1-score become more important as they
-    provide more detailed insight into how well the model is identifying
-    the minority class.
+- **Balanced classification problems** have an approximately equal
+  number of instances in each class. In such cases, traditional
+  metrics like accuracy and F1-score can give a good idea of model
+  performance.
+- **Imbalanced classification problems** have one or more classes with
+  significantly fewer instances than others. In these cases,
+  traditional metrics (especially accuracy) can be misleading.
+  Precision, recall, and F1-score become more important as they
+  provide more detailed insight into how well the model is identifying
+  the minority class.
 
 ### **13. What are One-vs-All and One-vs-One strategies in Multiclass Classification?**
 
@@ -1642,16 +1646,16 @@ strategies for multiclass classification?
 
 **Answer:**
 
--   **One-vs-All (OvA)**: In this strategy, a separate binary classifier
-    is trained for each class, where the instances of that class are
-    labeled as positive and all other classes are labeled as negative.
-    Each classifier predicts whether an instance belongs to the specific
-    class or not. The class with the highest score from all classifiers
-    is chosen as the predicted label.
--   **One-vs-One (OvO)**: In this strategy, a separate binary classifier
-    is trained for every possible pair of classes. For N classes, this
-    results in 2N(N−1)​ classifiers. The final class prediction is made
-    based on the majority vote of these classifiers.
+- **One-vs-All (OvA)**: In this strategy, a separate binary classifier
+  is trained for each class, where the instances of that class are
+  labeled as positive and all other classes are labeled as negative.
+  Each classifier predicts whether an instance belongs to the specific
+  class or not. The class with the highest score from all classifiers
+  is chosen as the predicted label.
+- **One-vs-One (OvO)**: In this strategy, a separate binary classifier
+  is trained for every possible pair of classes. For N classes, this
+  results in 2N(N−1)​ classifiers. The final class prediction is made
+  based on the majority vote of these classifiers.
 
 One-vs-All is generally faster as it requires fewer classifiers, while
 One-vs-One can be more accurate but requires more classifiers to be
@@ -1665,236 +1669,236 @@ UNIT 5
 
 **Q1: What is K-Means clustering?**
 
--   **A1:** K-Means is an unsupervised machine learning algorithm used
-    for clustering data points into *K* distinct clusters. It minimizes
-    the sum of squared distances between data points and their assigned
-    cluster centroids.
+- **A1:** K-Means is an unsupervised machine learning algorithm used
+  for clustering data points into _K_ distinct clusters. It minimizes
+  the sum of squared distances between data points and their assigned
+  cluster centroids.
 
 **Q2: How does K-Means clustering work?**
 
--   **A2:** K-Means works by:
+- **A2:** K-Means works by:
 
-    1.  Selecting *K* initial centroids (randomly or using methods like
-        k-means++ for better initialization).
-    2.  Assigning each data point to the nearest centroid.
-    3.  Recalculating the centroids based on the mean of all data points
-        in each cluster.
-    4.  Repeating steps 2 and 3 until convergence (when centroids no
-        longer change).
+  1.  Selecting _K_ initial centroids (randomly or using methods like
+      k-means++ for better initialization).
+  2.  Assigning each data point to the nearest centroid.
+  3.  Recalculating the centroids based on the mean of all data points
+      in each cluster.
+  4.  Repeating steps 2 and 3 until convergence (when centroids no
+      longer change).
 
 **Q3: What are the disadvantages of K-Means?**
 
--   **A3:**
+- **A3:**
 
-    1.  Requires the number of clusters *K* to be predefined.
-    2.  Sensitive to initial centroid placement.
-    3.  Assumes clusters are spherical and of equal size, which might
-        not always be the case.
-    4.  Prone to getting stuck in local minima.
+  1.  Requires the number of clusters _K_ to be predefined.
+  2.  Sensitive to initial centroid placement.
+  3.  Assumes clusters are spherical and of equal size, which might
+      not always be the case.
+  4.  Prone to getting stuck in local minima.
 
 ### K-Medoids Clustering
 
 **Q4: What is K-Medoids clustering?**
 
--   **A4:** K-Medoids is a clustering algorithm similar to K-Means but
-    instead of using the mean as the center of the cluster, it uses an
-    actual data point, known as a *medoid*, as the representative of the
-    cluster.
+- **A4:** K-Medoids is a clustering algorithm similar to K-Means but
+  instead of using the mean as the center of the cluster, it uses an
+  actual data point, known as a _medoid_, as the representative of the
+  cluster.
 
 **Q5: How does K-Medoids differ from K-Means?**
 
--   **A5:** The key difference is that K-Medoids uses a medoid (an
-    actual data point) as the cluster center, while K-Means uses the
-    mean (centroid). This makes K-Medoids more robust to outliers, as
-    the medoid is less sensitive to extreme values compared to the mean.
+- **A5:** The key difference is that K-Medoids uses a medoid (an
+  actual data point) as the cluster center, while K-Means uses the
+  mean (centroid). This makes K-Medoids more robust to outliers, as
+  the medoid is less sensitive to extreme values compared to the mean.
 
 **Q6: What are the disadvantages of K-Medoids?**
 
--   **A6:**
+- **A6:**
 
-    1.  Computationally more expensive than K-Means, especially for
-        large datasets.
-    2.  Requires the number of clusters *K* to be predefined.
-    3.  Can be sensitive to the choice of initial medoids.
+  1.  Computationally more expensive than K-Means, especially for
+      large datasets.
+  2.  Requires the number of clusters _K_ to be predefined.
+  3.  Can be sensitive to the choice of initial medoids.
 
 ### Hierarchical Clustering
 
 **Q7: What is hierarchical clustering?**
 
--   **A7:** Hierarchical clustering is an unsupervised clustering
-    technique that builds a hierarchy of clusters. It does not require
-    the number of clusters to be predefined. The two main approaches
-    are:
+- **A7:** Hierarchical clustering is an unsupervised clustering
+  technique that builds a hierarchy of clusters. It does not require
+  the number of clusters to be predefined. The two main approaches
+  are:
 
-    -   **Agglomerative:** Starts with each data point as its own
-        cluster and merges clusters iteratively.
-    -   **Divisive:** Starts with all data points in a single cluster
-        and splits them iteratively.
+  - **Agglomerative:** Starts with each data point as its own
+    cluster and merges clusters iteratively.
+  - **Divisive:** Starts with all data points in a single cluster
+    and splits them iteratively.
 
 **Q8: What is a dendrogram?**
 
--   **A8:** A dendrogram is a tree-like diagram that shows the hierarchy
-    of clusters. It is often used to visualize the results of
-    agglomerative hierarchical clustering.
+- **A8:** A dendrogram is a tree-like diagram that shows the hierarchy
+  of clusters. It is often used to visualize the results of
+  agglomerative hierarchical clustering.
 
 **Q9: What are the disadvantages of hierarchical clustering?**
 
--   **A9:**
+- **A9:**
 
-    1.  Computationally expensive, especially for large datasets (O(n²)
-        complexity).
-    2.  Does not scale well to very large datasets.
-    3.  Difficult to undo decisions once clusters are merged or split.
+  1.  Computationally expensive, especially for large datasets (O(n²)
+      complexity).
+  2.  Does not scale well to very large datasets.
+  3.  Difficult to undo decisions once clusters are merged or split.
 
 ### Density-Based Clustering
 
 **Q10: What is Density-Based Spatial Clustering of Applications with
 Noise (DBSCAN)?**
 
--   **A10:** DBSCAN is a density-based clustering algorithm that groups
-    together points that are closely packed (based on distance and
-    density criteria) and marks points in low-density regions as
-    outliers.
+- **A10:** DBSCAN is a density-based clustering algorithm that groups
+  together points that are closely packed (based on distance and
+  density criteria) and marks points in low-density regions as
+  outliers.
 
 **Q11: How does DBSCAN work?**
 
--   **A11:** DBSCAN works by defining clusters as areas of high point
-    density, separated by regions of low density. It uses two key
-    parameters:
+- **A11:** DBSCAN works by defining clusters as areas of high point
+  density, separated by regions of low density. It uses two key
+  parameters:
 
-    -   **ε (epsilon):** The maximum radius for neighbors.
-    -   **MinPts:** The minimum number of points required to form a
-        dense region (a cluster).
+  - **ε (epsilon):** The maximum radius for neighbors.
+  - **MinPts:** The minimum number of points required to form a
+    dense region (a cluster).
 
-    DBSCAN labels points as:
+  DBSCAN labels points as:
 
-    -   **Core points:** Points with at least MinPts neighbors within ε
-        distance.
-    -   **Border points:** Points within ε distance of a core point but
-        having fewer than MinPts neighbors.
-    -   **Noise points:** Points that are neither core nor border
-        points.
+  - **Core points:** Points with at least MinPts neighbors within ε
+    distance.
+  - **Border points:** Points within ε distance of a core point but
+    having fewer than MinPts neighbors.
+  - **Noise points:** Points that are neither core nor border
+    points.
 
 **Q12: What are the advantages of DBSCAN?**
 
--   **A12:**
+- **A12:**
 
-    1.  Can detect clusters of arbitrary shapes.
-    2.  Does not require the number of clusters to be predefined.
-    3.  Can identify outliers as noise points.
+  1.  Can detect clusters of arbitrary shapes.
+  2.  Does not require the number of clusters to be predefined.
+  3.  Can identify outliers as noise points.
 
 **Q13: What are the limitations of DBSCAN?**
 
--   **A13:**
+- **A13:**
 
-    1.  Sensitive to the choice of parameters ε and MinPts.
-    2.  Struggles with varying densities within the dataset.
-    3.  Does not handle well in high-dimensional data (curse of
-        dimensionality).
+  1.  Sensitive to the choice of parameters ε and MinPts.
+  2.  Struggles with varying densities within the dataset.
+  3.  Does not handle well in high-dimensional data (curse of
+      dimensionality).
 
 ### Spectral Clustering
 
 **Q14: What is spectral clustering?**
 
--   **A14:** Spectral clustering is a method that uses eigenvalues of a
-    similarity matrix to reduce dimensionality before applying a
-    clustering algorithm like K-Means. It is particularly useful when
-    clusters are not linearly separable.
+- **A14:** Spectral clustering is a method that uses eigenvalues of a
+  similarity matrix to reduce dimensionality before applying a
+  clustering algorithm like K-Means. It is particularly useful when
+  clusters are not linearly separable.
 
 **Q15: How does spectral clustering work?**
 
--   **A15:** Spectral clustering works by:
+- **A15:** Spectral clustering works by:
 
-    1.  Constructing a similarity matrix (e.g., using Gaussian
-        similarity or a k-nearest neighbor graph).
-    2.  Computing the Laplacian matrix of the graph.
-    3.  Finding the eigenvectors and eigenvalues of the Laplacian
-        matrix.
-    4.  Using the top eigenvectors to embed the data into a
-        lower-dimensional space.
-    5.  Applying K-Means to the embedded data points to find the final
-        clusters.
+  1.  Constructing a similarity matrix (e.g., using Gaussian
+      similarity or a k-nearest neighbor graph).
+  2.  Computing the Laplacian matrix of the graph.
+  3.  Finding the eigenvectors and eigenvalues of the Laplacian
+      matrix.
+  4.  Using the top eigenvectors to embed the data into a
+      lower-dimensional space.
+  5.  Applying K-Means to the embedded data points to find the final
+      clusters.
 
 **Q16: When is spectral clustering particularly useful?**
 
--   **A16:** Spectral clustering is useful when clusters are not
-    linearly separable and when data is connected in a graph-like
-    structure. It can also handle clusters of complex shapes.
+- **A16:** Spectral clustering is useful when clusters are not
+  linearly separable and when data is connected in a graph-like
+  structure. It can also handle clusters of complex shapes.
 
 ### Outlier Analysis: Isolation Factor & Local Outlier Factor (LOF)
 
 **Q17: What is outlier analysis?**
 
--   **A17:** Outlier analysis identifies data points that deviate
-    significantly from the majority of the dataset, which can indicate
-    anomalies or rare events. Outliers can be detected through various
-    methods like distance-based, density-based, and statistical
-    approaches.
+- **A17:** Outlier analysis identifies data points that deviate
+  significantly from the majority of the dataset, which can indicate
+  anomalies or rare events. Outliers can be detected through various
+  methods like distance-based, density-based, and statistical
+  approaches.
 
 **Q18: What is the isolation factor in outlier analysis?**
 
--   **A18:** The isolation factor measures how easy it is to separate a
-    data point from the rest of the data. Outliers are easier to isolate
-    because they are far from the majority of data points. Algorithms
-    like *Isolation Forest* use this concept to identify outliers.
+- **A18:** The isolation factor measures how easy it is to separate a
+  data point from the rest of the data. Outliers are easier to isolate
+  because they are far from the majority of data points. Algorithms
+  like _Isolation Forest_ use this concept to identify outliers.
 
 **Q19: What is Local Outlier Factor (LOF)?**
 
--   **A19:** LOF is a density-based method for identifying local
-    outliers. It compares the density of a point to the density of its
-    neighbors. Points with significantly lower density than their
-    neighbors are considered outliers. LOF is effective for detecting
-    outliers in datasets with varying densities.
+- **A19:** LOF is a density-based method for identifying local
+  outliers. It compares the density of a point to the density of its
+  neighbors. Points with significantly lower density than their
+  neighbors are considered outliers. LOF is effective for detecting
+  outliers in datasets with varying densities.
 
 ### Evaluation Metrics and Scores
 
 **Q20: What is the elbow method for evaluating clustering?**
 
--   **A20:** The elbow method helps determine the optimal number of
-    clusters *K* by plotting the within-cluster sum of squares (WCSS)
-    against different values of *K*. The \"elbow\" point (where the rate
-    of decrease in WCSS slows down) is typically chosen as the optimal
-    *K*.
+- **A20:** The elbow method helps determine the optimal number of
+  clusters _K_ by plotting the within-cluster sum of squares (WCSS)
+  against different values of _K_. The \"elbow\" point (where the rate
+  of decrease in WCSS slows down) is typically chosen as the optimal
+  _K_.
 
 **Q21: What are intrinsic evaluation metrics for clustering?**
 
--   **A21:** Intrinsic evaluation metrics evaluate clustering quality
-    based on internal properties of the clusters, without needing ground
-    truth labels. Examples include:
+- **A21:** Intrinsic evaluation metrics evaluate clustering quality
+  based on internal properties of the clusters, without needing ground
+  truth labels. Examples include:
 
-    -   **Silhouette Score:** Measures how similar each point is to its
-        own cluster compared to other clusters.
-    -   **Davies-Bouldin Index:** Measures the average similarity ratio
-        of each cluster with its most similar cluster. Lower values
-        indicate better clustering.
-    -   **Dunn Index:** Measures the ratio of the minimum inter-cluster
-        distance to the maximum intra-cluster distance. Higher values
-        indicate better clustering.
+  - **Silhouette Score:** Measures how similar each point is to its
+    own cluster compared to other clusters.
+  - **Davies-Bouldin Index:** Measures the average similarity ratio
+    of each cluster with its most similar cluster. Lower values
+    indicate better clustering.
+  - **Dunn Index:** Measures the ratio of the minimum inter-cluster
+    distance to the maximum intra-cluster distance. Higher values
+    indicate better clustering.
 
 **Q22: What are extrinsic evaluation metrics for clustering?**
 
--   **A22:** Extrinsic evaluation metrics compare the clustering results
-    to ground truth labels (if available). Common examples include:
+- **A22:** Extrinsic evaluation metrics compare the clustering results
+  to ground truth labels (if available). Common examples include:
 
-    -   **Adjusted Rand Index (ARI):** Measures the similarity between
-        the predicted clusters and true labels, adjusted for chance.
-    -   **Normalized Mutual Information (NMI):** Measures the amount of
-        information shared between the predicted clusters and true
-        labels.
-    -   **Fowlkes-Mallows Index (FMI):** Measures the geometric mean of
-        precision and recall for clustering.
+  - **Adjusted Rand Index (ARI):** Measures the similarity between
+    the predicted clusters and true labels, adjusted for chance.
+  - **Normalized Mutual Information (NMI):** Measures the amount of
+    information shared between the predicted clusters and true
+    labels.
+  - **Fowlkes-Mallows Index (FMI):** Measures the geometric mean of
+    precision and recall for clustering.
 
 **Q23: How is the silhouette score calculated?**
 
--   **A23:** The silhouette score for a point is calculated as:
-    S(i)=max(a(i),b(i))b(i)−a(i)​ where:
+- **A23:** The silhouette score for a point is calculated as:
+  S(i)=max(a(i),b(i))b(i)−a(i)​ where:
 
-    -   **a(i)** is the average distance from point *i* to all other
-        points in the same cluster.
-    -   **b(i)** is the average distance from point *i* to all points in
-        the nearest cluster. The score ranges from -1 (poor clustering)
-        to +1 (well-separated clusters).
-    -   
+  - **a(i)** is the average distance from point _i_ to all other
+    points in the same cluster.
+  - **b(i)** is the average distance from point _i_ to all points in
+    the nearest cluster. The score ranges from -1 (poor clustering)
+    to +1 (well-separated clusters).
+  -
 
 ### 1. **What is the Elbow Method in clustering?**
 
@@ -1922,12 +1926,12 @@ performance.
 In the Elbow Method graph, you observe the WCSS (or inertia) on the
 y-axis and the number of clusters k on the x-axis.
 
--   **Initial steep drop**: When k is small, adding more clusters causes
-    a large reduction in WCSS.
--   **Flat region (elbow)**: After a certain point, increasing k results
-    in diminishing returns in WCSS reduction. The \"elbow\" point
-    indicates the number of clusters where the addition of more clusters
-    starts to have little impact on improving the clustering quality.
+- **Initial steep drop**: When k is small, adding more clusters causes
+  a large reduction in WCSS.
+- **Flat region (elbow)**: After a certain point, increasing k results
+  in diminishing returns in WCSS reduction. The \"elbow\" point
+  indicates the number of clusters where the addition of more clusters
+  starts to have little impact on improving the clustering quality.
 
 **Interpretation:** The number of clusters corresponding to the elbow is
 often chosen as the optimal k.
@@ -1940,32 +1944,32 @@ based on external information or ground truth. These metrics compare the
 clustering results against a predefined set of true labels (if
 available). These metrics include:
 
--   **Rand Index (RI):** Measures the similarity between two clustering
-    results. It compares the number of pairs of points that are either
-    in the same cluster or in different clusters in both the predicted
-    and true clustering.
+- **Rand Index (RI):** Measures the similarity between two clustering
+  results. It compares the number of pairs of points that are either
+  in the same cluster or in different clusters in both the predicted
+  and true clustering.
 
--   **Adjusted Rand Index (ARI):** A corrected-for-chance version of the
-    Rand Index that adjusts for the possibility of random agreement
-    between the two clusterings.
+- **Adjusted Rand Index (ARI):** A corrected-for-chance version of the
+  Rand Index that adjusts for the possibility of random agreement
+  between the two clusterings.
 
--   **Fowlkes-Mallows Index (FMI):** Measures the similarity between the
-    true and predicted clusters by comparing pairs of points that are
-    clustered together or apart in both results.
+- **Fowlkes-Mallows Index (FMI):** Measures the similarity between the
+  true and predicted clusters by comparing pairs of points that are
+  clustered together or apart in both results.
 
--   **Normalized Mutual Information (NMI):** A measure of the amount of
-    information shared between the true clustering and predicted
-    clustering. Higher values mean better agreement between the
-    clusterings.
+- **Normalized Mutual Information (NMI):** A measure of the amount of
+  information shared between the true clustering and predicted
+  clustering. Higher values mean better agreement between the
+  clusterings.
 
--   **Homogeneity, Completeness, and V-Measure:**
+- **Homogeneity, Completeness, and V-Measure:**
 
-    -   **Homogeneity:** Measures how much each cluster contains only
-        data points from a single class.
-    -   **Completeness:** Measures how much data points from a single
-        class are grouped together in a single cluster.
-    -   **V-Measure:** The harmonic mean of homogeneity and
-        completeness.
+  - **Homogeneity:** Measures how much each cluster contains only
+    data points from a single class.
+  - **Completeness:** Measures how much data points from a single
+    class are grouped together in a single cluster.
+  - **V-Measure:** The harmonic mean of homogeneity and
+    completeness.
 
 ### 4. **What are intrinsic evaluation metrics in clustering?**
 
@@ -1975,24 +1979,24 @@ without reference to external information or ground truth. These metrics
 focus on how well the clustering structure fits the data itself. Some
 common intrinsic metrics include:
 
--   **Silhouette Score:** Measures how similar each point is to its own
-    cluster (cohesion) compared to other clusters (separation). The
-    score ranges from -1 (worst) to +1 (best), where values close to +1
-    indicate well-separated clusters.
--   **Dunn Index:** Measures the ratio of the minimum distance between
-    clusters to the maximum cluster diameter. A higher Dunn Index
-    indicates better clustering with well-separated and compact
-    clusters.
--   **Davies-Bouldin Index (DBI):** A lower DBI indicates better
-    clustering, as it measures the average similarity ratio of each
-    cluster with the one that is most similar to it. Lower values
-    indicate clusters that are both compact and well-separated.
--   **Calinski-Harabasz Index (Variance Ratio Criterion):** Measures the
-    ratio of the sum of between-cluster dispersion to within-cluster
-    dispersion. A higher value indicates better clustering structure.
--   **Gap Statistic:** Compares the performance of the clustering
-    algorithm with that of a random clustering. A larger gap between the
-    actual clustering and random clustering indicates better results.
+- **Silhouette Score:** Measures how similar each point is to its own
+  cluster (cohesion) compared to other clusters (separation). The
+  score ranges from -1 (worst) to +1 (best), where values close to +1
+  indicate well-separated clusters.
+- **Dunn Index:** Measures the ratio of the minimum distance between
+  clusters to the maximum cluster diameter. A higher Dunn Index
+  indicates better clustering with well-separated and compact
+  clusters.
+- **Davies-Bouldin Index (DBI):** A lower DBI indicates better
+  clustering, as it measures the average similarity ratio of each
+  cluster with the one that is most similar to it. Lower values
+  indicate clusters that are both compact and well-separated.
+- **Calinski-Harabasz Index (Variance Ratio Criterion):** Measures the
+  ratio of the sum of between-cluster dispersion to within-cluster
+  dispersion. A higher value indicates better clustering structure.
+- **Gap Statistic:** Compares the performance of the clustering
+  algorithm with that of a random clustering. A larger gap between the
+  actual clustering and random clustering indicates better results.
 
 ### 5. **How is the Silhouette Score calculated?**
 
@@ -2003,10 +2007,10 @@ s(i)=max(a(i),b(i))b(i)−a(i)​
 
 Where:
 
--   a(i) is the average distance between point i and all other points in
-    the same cluster (cohesion).
--   b(i) is the minimum average distance between point i and all points
-    in any other cluster (separation).
+- a(i) is the average distance between point i and all other points in
+  the same cluster (cohesion).
+- b(i) is the minimum average distance between point i and all points
+  in any other cluster (separation).
 
 The final Silhouette Score for the entire dataset is the average of all
 individual silhouette scores. A higher score (closer to +1) indicates
@@ -2022,10 +2026,10 @@ agreement between them. The ARI corrects for the fact that random
 clusterings might also produce high scores, making it a more reliable
 measure than the Rand Index.
 
--   **Range:** The ARI ranges from -1 to +1. A score of +1 indicates
-    perfect agreement between the two clusterings, 0 means random
-    clustering (no agreement), and negative values suggest
-    worse-than-random clustering.
+- **Range:** The ARI ranges from -1 to +1. A score of +1 indicates
+  perfect agreement between the two clusterings, 0 means random
+  clustering (no agreement), and negative values suggest
+  worse-than-random clustering.
 
 **Formula for ARI:**
 
@@ -2033,37 +2037,37 @@ ARI=max(RI)−E\[RI\]RI−E\[RI\]​
 
 Where:
 
--   RI is the Rand Index for the two clusterings.
--   E\[RI\] is the expected value of the Rand Index for random
-    clusterings.
--   max(RI) is the maximum possible value of the Rand Index.
+- RI is the Rand Index for the two clusterings.
+- E\[RI\] is the expected value of the Rand Index for random
+  clusterings.
+- max(RI) is the maximum possible value of the Rand Index.
 
 ### 7. **What are Homogeneity, Completeness, and V-Measure?**
 
 **Answer:**
 
--   **Homogeneity:** Measures whether each cluster contains only members
-    of a single class. A clustering is homogeneous if each cluster only
-    contains data points from one true class.
+- **Homogeneity:** Measures whether each cluster contains only members
+  of a single class. A clustering is homogeneous if each cluster only
+  contains data points from one true class.
 
-    Homogeneity=1−H(C)H(C∣K)​
+  Homogeneity=1−H(C)H(C∣K)​
 
-    Where H(C∣K) is the conditional entropy of class labels given
-    clusters, and H(C) is the entropy of class labels.
+  Where H(C∣K) is the conditional entropy of class labels given
+  clusters, and H(C) is the entropy of class labels.
 
--   **Completeness:** Measures whether all data points of a given class
-    are assigned to the same cluster. A clustering is complete if all
-    members of a class are assigned to a single cluster.
+- **Completeness:** Measures whether all data points of a given class
+  are assigned to the same cluster. A clustering is complete if all
+  members of a class are assigned to a single cluster.
 
-    Completeness=1−H(K)H(K∣C)​
+  Completeness=1−H(K)H(K∣C)​
 
-    Where H(K∣C) is the conditional entropy of clusters given class
-    labels, and H(K) is the entropy of clusters.
+  Where H(K∣C) is the conditional entropy of clusters given class
+  labels, and H(K) is the entropy of clusters.
 
--   **V-Measure:** The harmonic mean of homogeneity and completeness,
-    balancing both criteria:
+- **V-Measure:** The harmonic mean of homogeneity and completeness,
+  balancing both criteria:
 
-    V-Measure=Homogeneity+Completeness2×Homogeneity×Completeness​
+  V-Measure=Homogeneity+Completeness2×Homogeneity×Completeness​
 
 ### 8. **What is the Gap Statistic used for?**
 
@@ -2075,34 +2079,34 @@ Statistic calculates the difference between the observed clustering
 structure and a reference null distribution of data that is uniformly
 distributed.
 
--   **Steps to compute the Gap Statistic:**
+- **Steps to compute the Gap Statistic:**
 
-    1.  Apply clustering to the original data for different values of k.
-    2.  Apply clustering to random data (with the same number of points
-        and features) for the same values of k.
-    3.  Calculate the difference (gap) between the clustering cost of
-        the real data and random data for each k.
-    4.  Choose the number of clusters (k) that maximizes this gap.
+  1.  Apply clustering to the original data for different values of k.
+  2.  Apply clustering to random data (with the same number of points
+      and features) for the same values of k.
+  3.  Calculate the difference (gap) between the clustering cost of
+      the real data and random data for each k.
+  4.  Choose the number of clusters (k) that maximizes this gap.
 
 ### 9. **What is the role of intrinsic and extrinsic metrics in clustering?**
 
 **Answer:**
 
--   **Intrinsic metrics** (e.g., Silhouette Score, Davies-Bouldin Index)
-    assess clustering quality based solely on the structure of the data
-    and the algorithm's ability to group similar points together,
-    without any external knowledge of true labels.
--   **Extrinsic metrics** (e.g., Adjusted Rand Index, Normalized Mutual
-    Information) evaluate clustering results by comparing them to
-    predefined ground truth labels or external information.
+- **Intrinsic metrics** (e.g., Silhouette Score, Davies-Bouldin Index)
+  assess clustering quality based solely on the structure of the data
+  and the algorithm's ability to group similar points together,
+  without any external knowledge of true labels.
+- **Extrinsic metrics** (e.g., Adjusted Rand Index, Normalized Mutual
+  Information) evaluate clustering results by comparing them to
+  predefined ground truth labels or external information.
 
 Both types of metrics are valuable:
 
--   **Intrinsic metrics** help when there is no ground truth available
-    or when you want to assess clustering in an unsupervised manner.
--   **Extrinsic metrics** are useful when you have access to ground
-    truth labels and want to validate how well the algorithm matches
-    these labels.
+- **Intrinsic metrics** help when there is no ground truth available
+  or when you want to assess clustering in an unsupervised manner.
+- **Extrinsic metrics** are useful when you have access to ground
+  truth labels and want to validate how well the algorithm matches
+  these labels.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2124,16 +2128,16 @@ error and improve its predictive performance.
 **Answer:**\
 The key components of an Artificial Neural Network are:
 
--   **Input layer:** Receives the input data.
--   **Hidden layers:** Intermediate layers between input and output that
-    process the data.
--   **Output layer:** Produces the final prediction or classification.
--   **Neurons (nodes):** Fundamental units that process the input data
-    and apply activation functions.
--   **Weights and Biases:** Parameters that are adjusted during training
-    to improve the network's performance.
--   **Activation functions:** Functions applied to neurons to introduce
-    non-linearity into the network.
+- **Input layer:** Receives the input data.
+- **Hidden layers:** Intermediate layers between input and output that
+  process the data.
+- **Output layer:** Produces the final prediction or classification.
+- **Neurons (nodes):** Fundamental units that process the input data
+  and apply activation functions.
+- **Weights and Biases:** Parameters that are adjusted during training
+  to improve the network's performance.
+- **Activation functions:** Functions applied to neurons to introduce
+  non-linearity into the network.
 
 ### **3. What is a Single Layer Neural Network?**
 
@@ -2164,9 +2168,9 @@ multilayer neural networks. It works by propagating the error from the
 output layer back through the network layers to update the weights. The
 process involves:
 
--   Calculating the error at the output layer.
--   Propagating this error backwards through the hidden layers.
--   Using gradient descent to adjust the weights and minimize the error.
+- Calculating the error at the output layer.
+- Propagating this error backwards through the hidden layers.
+- Using gradient descent to adjust the weights and minimize the error.
 
 ### **6. What is a Functional Link Artificial Neural Network (FLANN)?**
 
@@ -2186,13 +2190,13 @@ A Radial Basis Function (RBF) Network is a type of artificial neural
 network that uses radial basis functions as activation functions. The
 network consists of three layers:
 
--   **Input layer:** Accepts input features.
--   **Hidden layer:** Uses radial basis functions (often Gaussian
-    functions) to transform the inputs.
--   **Output layer:** Performs linear operations to produce the final
-    output. RBF networks are often used for classification, regression,
-    and function approximation tasks, especially when data is highly
-    non-linear.
+- **Input layer:** Accepts input features.
+- **Hidden layer:** Uses radial basis functions (often Gaussian
+  functions) to transform the inputs.
+- **Output layer:** Performs linear operations to produce the final
+  output. RBF networks are often used for classification, regression,
+  and function approximation tasks, especially when data is highly
+  non-linear.
 
 ### **8. What are Activation Functions in Neural Networks?**
 
@@ -2201,19 +2205,19 @@ Activation functions introduce non-linearity to the neural network,
 enabling it to model complex relationships between inputs and outputs.
 Common activation functions include:
 
--   **Sigmoid:** A smooth, S-shaped function outputting values between 0
-    and 1.
--   **Tanh (Hyperbolic Tangent):** Outputs values between -1 and 1,
-    similar to the sigmoid but with zero-centered output.
--   **ReLU (Rectified Linear Unit):** Outputs the input value if
-    positive, and zero otherwise.
--   **Leaky ReLU:** Similar to ReLU but allows a small negative slope
-    for negative inputs.
--   **Softmax:** Used in the output layer for multi-class
-    classification, producing a probability distribution over multiple
-    classes.
--   **ELU (Exponential Linear Unit):** Outputs a value close to zero for
-    negative inputs and linearly for positive inputs.
+- **Sigmoid:** A smooth, S-shaped function outputting values between 0
+  and 1.
+- **Tanh (Hyperbolic Tangent):** Outputs values between -1 and 1,
+  similar to the sigmoid but with zero-centered output.
+- **ReLU (Rectified Linear Unit):** Outputs the input value if
+  positive, and zero otherwise.
+- **Leaky ReLU:** Similar to ReLU but allows a small negative slope
+  for negative inputs.
+- **Softmax:** Used in the output layer for multi-class
+  classification, producing a probability distribution over multiple
+  classes.
+- **ELU (Exponential Linear Unit):** Outputs a value close to zero for
+  negative inputs and linearly for positive inputs.
 
 ### **9. What is a Recurrent Neural Network (RNN)?**
 
@@ -2229,18 +2233,18 @@ language modeling, and time series forecasting.
 
 **Answer:**
 
--   **Vanilla RNNs:** Basic RNNs with simple feedback loops, but they
-    suffer from issues like vanishing gradients.
--   **Long Short-Term Memory (LSTM):** A type of RNN designed to
-    mitigate the vanishing gradient problem. LSTMs have special gating
-    mechanisms to retain long-term dependencies.
--   **Gated Recurrent Units (GRU):** A simpler variant of LSTM with
-    fewer parameters, but still effective for capturing dependencies
-    over time.
--   **Bidirectional RNNs:** Process the data in both forward and
-    backward directions, improving context understanding.
--   **Attention Mechanisms:** Allow the model to focus on relevant parts
-    of the input sequence when making predictions.
+- **Vanilla RNNs:** Basic RNNs with simple feedback loops, but they
+  suffer from issues like vanishing gradients.
+- **Long Short-Term Memory (LSTM):** A type of RNN designed to
+  mitigate the vanishing gradient problem. LSTMs have special gating
+  mechanisms to retain long-term dependencies.
+- **Gated Recurrent Units (GRU):** A simpler variant of LSTM with
+  fewer parameters, but still effective for capturing dependencies
+  over time.
+- **Bidirectional RNNs:** Process the data in both forward and
+  backward directions, improving context understanding.
+- **Attention Mechanisms:** Allow the model to focus on relevant parts
+  of the input sequence when making predictions.
 
 ### **11. What is the vanishing gradient problem in RNNs?**
 
@@ -2260,14 +2264,14 @@ A Convolutional Neural Network (CNN) is a specialized type of neural
 network designed for processing grid-like data, such as images. CNNs are
 composed of several layers:
 
--   **Convolutional layers:** Apply convolutional filters to extract
-    features like edges, textures, and patterns.
--   **Pooling layers:** Reduce the spatial dimensions (downsampling) of
-    the feature maps.
--   **Fully connected layers:** Perform the final classification or
-    regression tasks after feature extraction. CNNs are especially
-    effective in image recognition, object detection, and other
-    vision-related tasks.
+- **Convolutional layers:** Apply convolutional filters to extract
+  features like edges, textures, and patterns.
+- **Pooling layers:** Reduce the spatial dimensions (downsampling) of
+  the feature maps.
+- **Fully connected layers:** Perform the final classification or
+  regression tasks after feature extraction. CNNs are especially
+  effective in image recognition, object detection, and other
+  vision-related tasks.
 
 ### **13. What is the purpose of the pooling layer in CNNs?**
 
@@ -2276,14 +2280,14 @@ The pooling layer in CNNs reduces the spatial dimensions of feature
 maps, thus decreasing the number of parameters and computation. It helps
 in:
 
--   **Reducing computational load**
--   **Extracting dominant features**
--   **Making the network more invariant to small translations and
-    distortions.** Common types of pooling include:
--   **Max pooling:** Selects the maximum value from a set of neighboring
-    pixels.
--   **Average pooling:** Takes the average value from a set of
-    neighboring pixels.
+- **Reducing computational load**
+- **Extracting dominant features**
+- **Making the network more invariant to small translations and
+  distortions.** Common types of pooling include:
+- **Max pooling:** Selects the maximum value from a set of neighboring
+  pixels.
+- **Average pooling:** Takes the average value from a set of
+  neighboring pixels.
 
 ### **14. What is a convolutional filter in CNNs?**
 
@@ -2310,27 +2314,27 @@ you have limited labeled data for the new task.
 **Answer:**\
 A CNN differs from an MLP in several ways:
 
--   **Structure:** CNNs use convolutional layers to extract local
-    features, while MLPs connect every neuron in one layer to every
-    neuron in the next.
--   **Parameter Sharing:** CNNs share weights across different regions
-    of the input (through convolution), which reduces the number of
-    parameters. MLPs do not have weight sharing.
--   **Data Type:** CNNs are more suited for spatial data like images,
-    whereas MLPs are generally used for structured data where the
-    spatial relationships are not as important.
+- **Structure:** CNNs use convolutional layers to extract local
+  features, while MLPs connect every neuron in one layer to every
+  neuron in the next.
+- **Parameter Sharing:** CNNs share weights across different regions
+  of the input (through convolution), which reduces the number of
+  parameters. MLPs do not have weight sharing.
+- **Data Type:** CNNs are more suited for spatial data like images,
+  whereas MLPs are generally used for structured data where the
+  spatial relationships are not as important.
 
 ### **17. What are the challenges in training deep neural networks?**
 
 **Answer:**
 
--   **Vanishing/Exploding Gradients:** In deep networks, gradients can
-    become too small (vanishing) or too large (exploding) during
-    backpropagation, which hinders learning.
--   **Overfitting:** Deep models with many parameters may overfit to the
-    training data, especially when data is limited.
--   **Computational Complexity:** Deep networks are computationally
-    expensive
+- **Vanishing/Exploding Gradients:** In deep networks, gradients can
+  become too small (vanishing) or too large (exploding) during
+  backpropagation, which hinders learning.
+- **Overfitting:** Deep models with many parameters may overfit to the
+  training data, especially when data is limited.
+- **Computational Complexity:** Deep networks are computationally
+  expensive
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2388,14 +2392,14 @@ the output of a neuron to introduce non-linearity into the network,
 enabling it to learn complex patterns. Common activation functions
 include:
 
--   **Sigmoid:** Outputs a value between 0 and 1.
--   **Tanh:** Outputs values between -1 and 1.
--   **ReLU (Rectified Linear Unit):** Outputs the input directly if it
-    is positive; otherwise, it outputs zero.
--   **Leaky ReLU:** Similar to ReLU but allows a small, non-zero
-    gradient when the input is negative.
--   **Softmax:** Converts outputs into a probability distribution, often
-    used in classification tasks.
+- **Sigmoid:** Outputs a value between 0 and 1.
+- **Tanh:** Outputs values between -1 and 1.
+- **ReLU (Rectified Linear Unit):** Outputs the input directly if it
+  is positive; otherwise, it outputs zero.
+- **Leaky ReLU:** Similar to ReLU but allows a small, non-zero
+  gradient when the input is negative.
+- **Softmax:** Converts outputs into a probability distribution, often
+  used in classification tasks.
 
 ### **7. What is a Recurrent Neural Network (RNN)?**
 
@@ -2437,15 +2441,15 @@ multiclass classification has multiple categories as possible outputs.
 
 **Answer:**
 
--   **Balanced Multiclass Classification**: In balanced multiclass
-    classification, the classes have a similar number of instances. This
-    makes the learning process easier because each class is equally
-    represented in the dataset.
--   **Imbalanced Multiclass Classification**: In imbalanced multiclass
-    classification, some classes have many more instances than others,
-    leading to a bias toward the more frequent classes. This can make
-    the model less effective in predicting underrepresented classes and
-    requires specialized techniques to address the imbalance.
+- **Balanced Multiclass Classification**: In balanced multiclass
+  classification, the classes have a similar number of instances. This
+  makes the learning process easier because each class is equally
+  represented in the dataset.
+- **Imbalanced Multiclass Classification**: In imbalanced multiclass
+  classification, some classes have many more instances than others,
+  leading to a bias toward the more frequent classes. This can make
+  the model less effective in predicting underrepresented classes and
+  requires specialized techniques to address the imbalance.
 
 ### **12. What is the One-vs-One (OvO) Strategy in Multiclass Classification?**
 
@@ -2483,9 +2487,9 @@ Precision=TP+FPTP​
 
 Where:
 
--   TP is the number of true positives (correct positive predictions),
--   FP is the number of false positives (incorrect positive
-    predictions).
+- TP is the number of true positives (correct positive predictions),
+- FP is the number of false positives (incorrect positive
+  predictions).
 
 Precision is particularly important when the cost of false positives is
 high.
@@ -2499,8 +2503,8 @@ Recall=TP+FNTP​
 
 Where:
 
--   TP is the number of true positives,
--   FN is the number of false negatives (missed positive predictions).
+- TP is the number of true positives,
+- FN is the number of false negatives (missed positive predictions).
 
 Recall is important when the cost of false negatives is high.
 
@@ -2532,8 +2536,8 @@ false negatives across all classes. They treat all classes equally and
 are particularly useful when dealing with imbalanced multiclass
 classification problems.
 
--   **Micro-Average Precision**: ∑TP+∑FP∑TP​
--   **Micro-Average Recall**: ∑TP+∑FN∑TP​
+- **Micro-Average Precision**: ∑TP+∑FP∑TP​
+- **Micro-Average Recall**: ∑TP+∑FN∑TP​
 
 ### **20. What is Macro-Average Precision and Recall?**
 
@@ -2542,8 +2546,8 @@ each class individually and then take the average. This approach treats
 each class equally, regardless of its frequency in the dataset, and is
 useful for cases where each class\'s performance is equally important.
 
--   **Macro-Average Precision**: k1​∑i=1k​TPi​+FPi​TPi​​
--   **Macro-Average Recall**: (\\frac{1}{k} \\sum\_{i=1}\^{k} \\frac
+- **Macro-Average Precision**: k1​∑i=1k​TPi​+FPi​TPi​​
+- **Macro-Average Recall**: (\\frac{1}{k} \\sum\_{i=1}\^{k} \\frac
 
 ### **1. What is Micro-Average Precision?**
 
@@ -2561,8 +2565,8 @@ The formula for **Micro-Average Precision** is:
 
 Where:
 
--   ∑TP is the total number of true positives across all classes,
--   ∑FP is the total number of false positives across all classes.
+- ∑TP is the total number of true positives across all classes,
+- ∑FP is the total number of false positives across all classes.
 
 ### **2. What is Micro-Average Recall?**
 
@@ -2579,8 +2583,8 @@ The formula for **Micro-Average Recall** is:
 
 Where:
 
--   ∑TP is the total number of true positives across all classes,
--   ∑FN is the total number of false negatives across all classes.
+- ∑TP is the total number of true positives across all classes,
+- ∑FN is the total number of false negatives across all classes.
 
 ### **3. What is Micro-Average F-Score (F1-Score)?**
 
@@ -2613,9 +2617,9 @@ The formula for **Macro-Average Precision** is:
 
 Where:
 
--   k is the number of classes,
--   TPi​ is the number of true positives for class i,
--   FPi​ is the number of false positives for class i.
+- k is the number of classes,
+- TPi​ is the number of true positives for class i,
+- FPi​ is the number of false positives for class i.
 
 ### **5. What is Macro-Average Recall?**
 
@@ -2632,9 +2636,9 @@ The formula for **Macro-Average Recall** is:
 
 Where:
 
--   k is the number of classes,
--   TPi​ is the number of true positives for class i,
--   FNi​ is the number of false negatives for class i.
+- k is the number of classes,
+- TPi​ is the number of true positives for class i,
+- FNi​ is the number of false negatives for class i.
 
 ### **6. What is Macro-Average F-Score (F1-Score)?**
 
@@ -2651,9 +2655,9 @@ The formula for **Macro-Average F1-Score** is:
 
 Where:
 
--   k is the number of classes,
--   Precisioni​ and Recalli​ are the precision and recall for class i,
-    respectively.
+- k is the number of classes,
+- Precisioni​ and Recalli​ are the precision and recall for class i,
+  respectively.
 
 ### **7. What is the Difference Between Micro-Average and Macro-Average?**
 
@@ -2661,29 +2665,29 @@ Where:
 The main difference between **Micro-Average** and **Macro-Average** is
 how they treat classes:
 
--   **Micro-Average** aggregates the contributions of all classes before
-    calculating the precision, recall, or F1-Score. It is typically used
-    when you care more about overall accuracy and want to treat each
-    prediction equally (regardless of the class).
--   **Macro-Average**, on the other hand, computes the precision,
-    recall, or F1-Score for each class independently and then averages
-    them. It is used when each class should be treated equally,
-    regardless of how many instances each class has. This makes
-    macro-average a good choice when dealing with imbalanced datasets
-    where each class's performance matters.
+- **Micro-Average** aggregates the contributions of all classes before
+  calculating the precision, recall, or F1-Score. It is typically used
+  when you care more about overall accuracy and want to treat each
+  prediction equally (regardless of the class).
+- **Macro-Average**, on the other hand, computes the precision,
+  recall, or F1-Score for each class independently and then averages
+  them. It is used when each class should be treated equally,
+  regardless of how many instances each class has. This makes
+  macro-average a good choice when dealing with imbalanced datasets
+  where each class's performance matters.
 
 ### **8. When Should You Use Micro-Average vs. Macro-Average?**
 
 **Answer:**
 
--   **Use Micro-Average** when the data is **imbalanced** and you want
-    to emphasize the overall accuracy of the model, treating all
-    instances equally, regardless of the class they belong to.
--   **Use Macro-Average** when you want to give equal importance to each
-    class and care about how well the model performs on each class
-    independently. This is useful in situations where you are dealing
-    with **imbalanced datasets** and want to ensure that the performance
-    across all classes is balanced, not just the more frequent ones.
+- **Use Micro-Average** when the data is **imbalanced** and you want
+  to emphasize the overall accuracy of the model, treating all
+  instances equally, regardless of the class they belong to.
+- **Use Macro-Average** when you want to give equal importance to each
+  class and care about how well the model performs on each class
+  independently. This is useful in situations where you are dealing
+  with **imbalanced datasets** and want to ensure that the performance
+  across all classes is balanced, not just the more frequent ones.
 
 ### **9. Can You Use Micro-Average and Macro-Average Together?**
 
@@ -2692,27 +2696,27 @@ Yes, both **Micro-Average** and **Macro-Average** can be used together
 to evaluate a model\'s performance. They provide complementary
 information:
 
--   **Micro-Average** gives an overall sense of model performance,
-    treating all individual predictions equally.
--   **Macro-Average** provides insight into how the model is performing
-    on a per-class basis, especially useful when you want to assess
-    whether the model is doing well across all classes, regardless of
-    their frequency.
+- **Micro-Average** gives an overall sense of model performance,
+  treating all individual predictions equally.
+- **Macro-Average** provides insight into how the model is performing
+  on a per-class basis, especially useful when you want to assess
+  whether the model is doing well across all classes, regardless of
+  their frequency.
 
 ### **10. How Do Micro and Macro Averages Handle Class Imbalance?**
 
 **Answer:**
 
--   **Micro-Average** is less sensitive to class imbalance because it
-    aggregates across all classes, making it driven by the total number
-    of correct predictions (true positives) across all classes. This
-    means that large classes (with more instances) dominate the
-    micro-average score.
--   **Macro-Average** is more sensitive to class imbalance because it
-    treats all classes equally. A model may perform well on the majority
-    classes but still show low performance in smaller or
-    underrepresented classes, and this will be reflected in the
-    macro-average score.
+- **Micro-Average** is less sensitive to class imbalance because it
+  aggregates across all classes, making it driven by the total number
+  of correct predictions (true positives) across all classes. This
+  means that large classes (with more instances) dominate the
+  micro-average score.
+- **Macro-Average** is more sensitive to class imbalance because it
+  treats all classes equally. A model may perform well on the majority
+  classes but still show low performance in smaller or
+  underrepresented classes, and this will be reflected in the
+  macro-average score.
 
 ### **11. How to Interpret Macro-Average F-Score?**
 
